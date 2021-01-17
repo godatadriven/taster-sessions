@@ -8,7 +8,7 @@ This repository contains all notebooks and materials for the Python Taster.
 
 Please visit the Binder link below to open the environment and make edits and explore the capabilities of Python.
 
-<a href="https://mybinder.org/v2/gh/lushep/python-taster-test-2/main" Target="_blank">
+<a href="https://gdd.li/python-taster" Target="_blank">
 <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
 
 ## Sessions
