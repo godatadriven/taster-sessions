@@ -1,0 +1,1 @@
+penguins_cleaned['flipper_length_mm'].mean()
