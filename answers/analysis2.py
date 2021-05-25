@@ -1,1 +1,0 @@
-penguins_cleaned['sex'].value_counts()

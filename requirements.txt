@@ -1,6 +1,3 @@
-numpy
+# list package requirements here. Eg.
 pandas
-matplotlib
-nbconvert
-seaborn
-sklearn
+numpy

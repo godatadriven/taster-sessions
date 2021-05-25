@@ -1,1 +1,0 @@
-penguins_cleaned.groupby('sex')['flipper_length_mm'].mean()
