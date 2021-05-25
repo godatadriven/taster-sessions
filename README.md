@@ -14,7 +14,7 @@ Each taster is run for our public courses. To access the material for the course
 
 ## Contributing
 
-To add a new taster you can use the taster-template branch and add all the notebooks/files you need. Feel free to remove folders that aren't necessary.
+To add a new taster you can use the `taster-template` branch and add all the notebooks/files you need. Feel free to remove folders that aren't necessary.
 
 ### Using Binder
 
