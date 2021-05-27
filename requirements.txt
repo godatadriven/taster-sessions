@@ -2,4 +2,4 @@
 pandas
 numpy
 sklearn
-rises
+rise
