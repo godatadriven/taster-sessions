@@ -1,8 +1,8 @@
-# Name of Taster Session
+# Seasonality Modelling
 
 ## Introduction
 
-This repository contains all notebooks and materials for the Name of Taster Session.
+This repository contains all notebooks and materials for the Seasonality Modelling Coding Breakfast.
 
 ## Explore and experiment in Binder
 
