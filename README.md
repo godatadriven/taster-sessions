@@ -1,4 +1,4 @@
-# Name of Taster Session
+# Deep Learning Taster
 
 ## Introduction
 
