@@ -2,7 +2,19 @@
 
 ## Introduction
 
-This repository contains all notebooks and materials for the Name of Taster Session.
+This repository contains all notebooks and materials for the "Anomaly detection in time series using Python" webinar.
+
+## Deliver the Session
+
+`webinar_timeser_anomaly.ipynb` contains the slides
+
+`webinar_timeser_anomaly_supplementary.ipynb` contains the full code
+
+Feel free to look at the program, the dataset and speaker's contact in `webinar_timeser_anomaly.ipynb`
+
+You need Jupyter Notebooks to open this file. If you are new to Python, we recommend installing the Anaconda package.
+
+To be able to run all of the code yourself, check "requirements.txt" for the list of needed Python libraries.
 
 ## Explore and experiment in Binder
 
@@ -22,4 +34,4 @@ This repository has been developed for the [Data Science with Python Taster Sess
 
 ## Contacts
 
-Please reach out to [contact] if you have any questions.
+Please reach out to Marysia Winkels if you have any questions.
