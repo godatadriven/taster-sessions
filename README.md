@@ -6,11 +6,15 @@ This repository contains all notebooks and materials for each GDD Training Taste
 
 Each taster is run for our public courses. To access the material for the course you can go to the branch corresponding to the taster. Here is a breakdown of the branch names:
 
-|Branch Name|Taster Name|Description|
-|---|---|---|
-|pfda|Python for Data Analysts|Covers Python Essentials and Pandas with some visualisations to demonstrate the power of Python|
-|dswp|Data Science with Python|An introduction to Machine Learning followed by a demo of using sci-kit learn on the penguins dataset|
-|adwsp|Advanced Data Science with Python|An introduction to all topics covered in the ADWSP course followed by demo of feature engineering|
+|Branch Name|Taster Name|Timing|Description|
+|---|---|---|---|
+|pfda|Python for Data Analysts|2 hr|Public: Covers Python Essentials and Pandas with some visualisations to demonstrate the power of Python|
+|dswp|Data Science with Python| 2hr |Public: An introduction to Machine Learning followed by a demo of using sci-kit learn on the penguins dataset|
+|adwsp|Advanced Data Science with Python| 2hr |Public: An introduction to all topics covered in the ADWSP course followed by demo of feature engineering|
+|anomaly-detection-in-time-series|Anomaly Detection in Time Series| 2hr | Public data science taster |
+|deep-learning| Deep Learning | 1hr | Public deep learning webinar |
+|seasonality-modelling|Seasonality Modeling from Scratch|2.5hrs|PyData AMS Code Breakfast - https://youtu.be/omEVdUS14SU|
+|neural-network-vulnerabilities|Vulnerabilities of Neural Networks: Find, Defend, & Prevent | 2.5hrs | Vadim Nelidov | PyData AMS Code Breakfast | 
 
 ## Contributing
 
@@ -18,7 +22,7 @@ To add a new taster you can use the `taster-template` branch and add all the not
 
 ### Using Binder
 
-Each course corresponds to a Binder link (redirected with rebrandley) for participants to use during the training.
+Each course can correspond to a Binder link (redirected with rebrandley) to allow participants to use jupyter notebooks during the training.
 
 To create a binder link for a taster, first create a `requirements.txt` file with all the packages needed for the taster. Then visit [Binder](https://mybinder.org/), paste the URL of this repo and include the name of the branch when creating:
 
@@ -26,4 +30,4 @@ To create a binder link for a taster, first create a `requirements.txt` file wit
 
 ## Contacts
 
-Please reach out to the data science training team - Lucy Sheppard, James Hayward, Marysia Winkels - if you have any questions.
+Please reach out to the data science training team - Lucy Sheppard, James Hayward, Marysia Winkels, Hertbert van Leeuwen - if you have any questions.
