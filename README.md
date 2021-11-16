@@ -19,6 +19,7 @@ Each taster is run for our public courses. To access the material for the course
 |pfda|Python for Data Analysts|2 hr|Public: Covers Python Essentials and Pandas with some visualisations to demonstrate the power of Python|
 |dswp|Data Science with Python| 2hr |Public: An introduction to Machine Learning followed by a demo of using sci-kit learn on the penguins dataset|
 |adwsp|Advanced Data Science with Python| 2hr |Public: An introduction to all topics covered in the ADWSP course followed by demo of feature engineering|
+|pandas|Pandas | 40m | Marysia Winkels | Automation of data processing with Python - internal taster for DSM. They specifically requested this wine dataset| 
 |anomaly-detection-in-time-series|Anomaly Detection in Time Series| 2hr | Public data science taster |
 |deep-learning| Deep Learning | 1hr | Public deep learning webinar |
 |seasonality-modelling|Seasonality Modeling from Scratch|2.5hrs|PyData AMS Code Breakfast - https://youtu.be/omEVdUS14SU|
