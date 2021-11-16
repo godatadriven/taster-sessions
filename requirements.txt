@@ -1,3 +1,0 @@
-# list package requirements here. Eg.
-pandas
-numpy
