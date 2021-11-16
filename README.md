@@ -4,6 +4,14 @@
 
 This repository contains all notebooks and materials for each GDD Training Taster.
 
+## Running a taster session
+
+If you need to use one of these tasters, clone the repository and switch to the correct branch (see below).
+
+If you are creating a new course, please add it as a new branch to this repo and add it to the list below. 
+
+## Session Info
+
 Each taster is run for our public courses. To access the material for the course you can go to the branch corresponding to the taster. Here is a breakdown of the branch names:
 
 |Branch Name|Taster Name|Timing|Description|
