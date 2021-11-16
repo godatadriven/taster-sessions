@@ -1,10 +1,12 @@
-# Name of Taster Session
+# Pandas Taster Session
 
 ## Introduction
 
-This repository contains all notebooks and materials for the Name of Taster Session.
+This repository contains all notebooks and materials for the Pandas Taster Session.
 
 ## Explore and experiment in Binder
+
+**Note: No binder yet**
 
 Please visit the Binder link below to open the environment and make edits and explore the capabilities of Python.
 
@@ -22,4 +24,4 @@ This repository has been developed for the [Data Science with Python Taster Sess
 
 ## Contacts
 
-Please reach out to [contact] if you have any questions.
+Please reach out to Marysia Winkels if you have any questions.
