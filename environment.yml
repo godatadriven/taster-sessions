@@ -1,0 +1,18 @@
+name: deeplearning
+channels:
+  - defaults
+dependencies:
+- python=3.7
+- jupyter
+- jupyterlab
+- notebook
+- ipykernel
+- pip
+- matplotlib
+- numpy
+- pandas
+- seaborn
+- scipy
+- statsmodels
+- tensorflow>=2
+- adversarial-robustness-toolbox

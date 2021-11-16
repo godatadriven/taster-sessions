@@ -1,3 +1,14 @@
-# list package requirements here. Eg.
-pandas
-numpy
+python=3.7
+jupyter
+jupyterlab
+notebook
+ipykernel
+pip
+matplotlib
+numpy>=1.18.1
+pandas>=1.0.0
+seaborn
+scipy
+statsmodels
+tensorflow>=2
+adversarial-robustness-toolbox
