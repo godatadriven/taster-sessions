@@ -27,13 +27,15 @@ Each taster is run for our public courses. To access the material for the course
 
 ## Contributing
 
-To add a new taster you can use the `taster-template` branch and add all the notebooks/files you need. Feel free to remove folders that aren't necessary.
+To add a new taster session, create a new branch (eg. pfda) and add all the files you need there. You can branch off from `taster-template` to see what kind of files you need and delete all files/folders that you don't need. Each branch will need a `requirements.txt` file if connecting to binder (see below).
+
+Once you have finished push the branch to GitHub but *don't merge into master*. Each branch is its own taster. Instead on the master branch add the information of your taster to the table above.
 
 ### Using Binder
 
 Each course can correspond to a Binder link (redirected with rebrandley) to allow participants to use jupyter notebooks during the training.
 
-To create a binder link for a taster, first create a `requirements.txt` file with all the packages needed for the taster. Then visit [Binder](https://mybinder.org/), paste the URL of this repo and include the name of the branch when creating:
+To create a binder link for a taster, make sure you have a `requirements.txt` file with all the packages needed for the taster. Then visit [Binder](https://mybinder.org/), paste the URL of this repo and include the name of the branch when creating:
 
 ![](images/binder.png)
 
