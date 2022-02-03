@@ -1,8 +1,8 @@
-# Python Taster Session - GDD
+# Excel to Python Taster Session - GDD
 
 ## Introduction
 
-This repository contains all notebooks and materials for the Python Taster.
+This repository contains all notebooks and materials for the Excel to Python Taster.
 
 This notebook is designed for live-coding and/or activities for the participants during the session. All the solutions are in the solutions folder which can be used instead of live coding.
 
@@ -31,12 +31,12 @@ The following poll was made in Zoom to accompany the Pandas exercise:
 
 Please visit the Binder link below to open the environment and make edits and explore the capabilities of Python.
 
-<a href="https://gdd.li/python-taster" Target="_blank">
+<a href="https://gdd.li/excel-to-python-binder" Target="_blank">
 <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
 
 ## Sessions
 
-This repository has been developed for the [Python for Data Analysts Taster Session](https://godatadriven.com/topic/training-tasters-cloud-data-and-ai/) on 18th January 2020.
+This repository has been developed for the **Excel to Python Taster** on 4th February 2022.
 
 ## Contacts
 
