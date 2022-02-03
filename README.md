@@ -24,6 +24,7 @@ Each taster is run for our public courses. To access the material for the course
 |deep-learning| Deep Learning | 1hr | Public deep learning webinar |
 |seasonality-modelling|Seasonality Modeling from Scratch|2.5hrs|PyData AMS Code Breakfast - https://youtu.be/omEVdUS14SU|
 |neural-network-vulnerabilities|Vulnerabilities of Neural Networks: Find, Defend, & Prevent | 2.5hrs | Vadim Nelidov | PyData AMS Code Breakfast | 
+|databricks-gcp|Machine Learning with Databricks in GCP|2hr|An intro to Databricks in GCP and following an e2e machine learning example|
 
 ## Contributing
 
