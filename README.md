@@ -19,6 +19,8 @@ Solutions to the exercises are in the `answers` folder
 
 ## kahoot
 
+[kahoot](https://create.kahoot.it/details/87909336-f11a-422d-9dbe-9d93f497b768)
+
 ## binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JTHaywardGDD/time-series/HEAD)
