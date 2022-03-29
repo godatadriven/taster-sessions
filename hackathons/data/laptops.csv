@@ -1,0 +1,1303 @@
+,laptop_id,company,product,type_name,inches,screen_resolution,screen_resolution_width,screen_resolution_height,cpu,ram,memory_disk,memory_ssd,gpu,op_sys,weight,price
+0,1,Apple,MacBook Pro,Ultrabook,13.3,2560x1600,2560,1600,Intel Core,8,128,SSD,Intel,macOS,1.37,1339.69
+1,2,Apple,Macbook Air,Ultrabook,13.3,1440x900,1440,900,Intel Core,8,128,Storage,Intel,macOS,1.34,898.94
+2,3,HP,250 G6,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,No OS,1.86,575.0
+3,4,Apple,MacBook Pro,Ultrabook,15.4,2880x1800,2880,1800,Intel Core,16,512,SSD,AMD,macOS,1.83,2537.45
+4,5,Apple,MacBook Pro,Ultrabook,13.3,2560x1600,2560,1600,Intel Core,8,256,SSD,Intel,macOS,1.37,1803.6
+5,6,Acer,Aspire 3,Notebook,15.6,1366x768,1366,768,AMD,4,500,HDD,AMD,Windows 10,2.1,400.0
+6,7,Apple,MacBook Pro,Ultrabook,15.4,2880x1800,2880,1800,Intel Core,16,256,Storage,Intel,macOS,2.04,2139.97
+7,8,Apple,Macbook Air,Ultrabook,13.3,1440x900,1440,900,Intel Core,8,256,Storage,Intel,macOS,1.34,1158.7
+8,9,Asus,ZenBook UX430UN,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,1.3,1495.0
+9,10,Acer,Swift 3,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.6,770.0
+10,11,HP,250 G6,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,No OS,1.86,393.9
+11,12,HP,250 G6,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,No OS,1.86,344.99
+12,13,Apple,MacBook Pro,Ultrabook,15.4,2880x1800,2880,1800,Intel Core,16,256,SSD,AMD,macOS,1.83,2439.97
+13,14,Dell,Inspiron 3567,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,AMD,Windows 10,2.2,498.9
+14,15,Apple,"MacBook 12""",Ultrabook,12.0,2304x1440,2304,1440,Intel Core,8,256,SSD,Intel,macOS,0.92,1262.4
+15,16,Apple,MacBook Pro,Ultrabook,13.3,2560x1600,2560,1600,Intel Core,8,256,SSD,Intel,macOS,1.37,1518.55
+16,17,Dell,Inspiron 3567,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,2.2,745.0
+17,18,Apple,MacBook Pro,Ultrabook,15.4,2880x1800,2880,1800,Intel Core,16,512,SSD,AMD,macOS,1.83,2858.0
+18,19,Lenovo,IdeaPad 320-15IKB,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,No OS,2.2,499.0
+19,20,Dell,XPS 13,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,128,SSD,Intel,Windows 10,1.22,979.0
+20,21,Asus,Vivobook E200HA,Netbook,11.6,1366x768,1366,768,Intel Other,2,32,Storage,Intel,Windows 10,0.98,191.9
+21,22,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.5,999.0
+22,23,HP,255 G6,Notebook,15.6,1366x768,1366,768,AMD,4,500,HDD,AMD,No OS,1.86,258.0
+23,24,Dell,Inspiron 5379,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.62,819.0
+24,25,HP,15-BS101nv (i7-8550U/8GB/256GB/FHD/W10),Ultrabook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.91,659.0
+25,26,Dell,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Windows 10,2.3,418.64
+26,27,Apple,MacBook Air,Ultrabook,13.3,1440x900,1440,900,Intel Core,8,128,Storage,Intel,macOS,1.35,1099.0
+27,28,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,2.2,800.0
+28,29,Dell,Latitude 5590,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.88,1298.0
+29,30,HP,ProBook 470,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.5,896.0
+30,31,Chuwi,"LapBook 15.6""",Notebook,15.6,1920x1080,1920,1080,Intel Other,4,64,Storage,Intel,Windows 10,1.89,244.99
+31,32,Asus,E402WA-GA010T (E2-6110/2GB/32GB/W10),Notebook,14.0,1366x768,1366,768,AMD,2,32,Storage,AMD,Windows 10,1.65,199.0
+32,33,HP,17-ak001nv (A6-9220/4GB/500GB/Radeon,Notebook,17.3,1920x1080,1920,1080,AMD,4,500,HDD,AMD,Windows 10,2.71,439.0
+33,34,Dell,XPS 13,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,16,512,SSD,Intel,Windows 10,1.2,1869.0
+34,35,Apple,MacBook Air,Ultrabook,13.3,1440x900,1440,900,Intel Core,8,256,Storage,Intel,macOS,1.35,998.0
+35,36,Lenovo,IdeaPad 120S-14IAP,Notebook,14.0,1366x768,1366,768,Intel Other,4,64,Storage,Intel,Windows 10,1.44,249.0
+36,37,Acer,Aspire 3,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Linux,2.1,367.0
+37,38,Dell,Inspiron 5770,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,AMD,Windows 10,2.8,979.0
+38,39,HP,250 G6,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Windows 10,1.86,488.69
+39,40,HP,ProBook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.1,879.0
+40,41,Asus,X540UA-DM186 (i3-6006U/4GB/1TB/FHD/Linux),Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,Linux,2.0,389.0
+41,42,Dell,Inspiron 7577,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.65,1499.0
+42,43,Asus,X542UQ-GO005 (i5-7200U/8GB/1TB/GeForce,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,Nvidia,Linux,2.3,522.99
+43,44,Acer,Aspire A515-51G,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,2.2,682.0
+44,45,Dell,Inspiron 7773,2 in 1 Convertible,17.3,1920x1080,1920,1080,Intel Core,12,1000,HDD,Nvidia,Windows 10,2.77,999.0
+45,46,Apple,MacBook Pro,Ultrabook,13.3,2560x1600,2560,1600,Intel Core,8,256,SSD,Intel,macOS,1.37,1419.0
+46,47,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,1366x768,1366,768,Intel Core,4,128,SSD,Intel,No OS,2.2,369.0
+47,48,Asus,Rog Strix,Gaming,17.3,1920x1080,1920,1080,AMD,8,256,HDD,AMD,Windows 10,3.2,1299.0
+48,49,Dell,Inspiron 3567,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,AMD,Windows 10,2.3,639.0
+49,50,Asus,X751NV-TY001T (N4200/4GB/1TB/GeForce,Notebook,17.3,1366x768,1366,768,Intel Other,4,1000,HDD,Nvidia,Windows 10,2.8,466.0
+50,51,Lenovo,Yoga Book,2 in 1 Convertible,10.1,1920x1200,1920,1200,Intel Other,4,64,Storage,Intel,Android or Chrome,0.69,319.0
+51,52,Acer,Aspire A515-51G,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.2,841.0
+52,53,HP,255 G6,Notebook,15.6,1920x1080,1920,1080,AMD,4,256,SSD,AMD,Windows 10,1.86,398.49
+53,54,HP,ProBook 430,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.49,1103.0
+54,55,Acer,Aspire 3,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Windows 10,2.4,384.0
+55,56,Dell,Inspiron 3576,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,2.13,767.8
+56,57,HP,15-bs002nv (i3-6006U/4GB/128GB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.91,439.0
+57,58,Asus,VivoBook Max,Notebook,15.6,1366x768,1366,768,Intel Core,4,256,SSD,Intel,Windows 10,2.0,586.19
+58,59,MSI,GS73VR 7RG,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.43,2449.0
+59,60,Asus,X541UA-DM1897 (i3-6006U/4GB/256GB/FHD/Linux),Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Linux,2.0,415.0
+60,61,Dell,Inspiron 5770,Notebook,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,AMD,Windows 10,2.8,1299.0
+61,62,Dell,Vostro 5471,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.7,879.0
+62,63,Lenovo,IdeaPad 520S-14IKB,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,No OS,1.7,599.0
+63,64,Asus,UX410UA-GV350T (i5-8250U/8GB/256GB/FHD/W10),Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.4,941.0
+64,66,HP,250 G6,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.86,690.0
+65,67,Asus,ZenBook Pro,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,1.8,1983.0
+66,68,HP,250 G6,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,AMD,Windows 10,1.86,438.69
+67,69,HP,Stream 14-AX040wm,Notebook,14.0,1366x768,1366,768,Intel Other,4,32,SSD,Intel,Windows 10,1.44,229.0
+68,70,Lenovo,V310-15ISK (i5-7200U/4GB/1TB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,Windows 10,1.9,549.0
+69,71,Asus,FX753VE-GC093 (i7-7700HQ/12GB/1TB/GeForce,Gaming,17.3,1920x1080,1920,1080,Intel Core,12,1000,HDD,Nvidia,Linux,3.0,949.0
+70,72,Microsoft,Surface Laptop,Ultrabook,13.5,2256x1504,2256,1504,Intel Core,4,128,SSD,Intel,Windows 10,1.252,1089.0
+71,73,Dell,Inspiron 5370,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,1.4,955.0
+72,74,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,2.2,870.0
+73,75,MSI,GL72M 7RDX,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.7,1095.0
+74,76,Acer,Aspire E5-475,Notebook,14.0,1366x768,1366,768,Intel Core,8,1000,HDD,Intel,Windows 10,2.1,389.0
+75,77,Asus,FX503VD-E4022T (i7-7700HQ/8GB/1TB/GeForce,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.2,949.0
+76,78,Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,2000,HDD,Intel,No OS,2.2,519.0
+77,79,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Intel,Windows 10,2.02,855.0
+78,80,Acer,Aspire A515-51G-32MX,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,Windows 10,2.2,530.0
+79,81,HP,ProBook 470,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.5,977.0
+80,82,Dell,Latitude 5590,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.88,1096.16
+81,83,Apple,"MacBook 12""",Ultrabook,12.0,2304x1440,2304,1440,Intel Core,8,512,SSD,Intel,macOS,0.92,1510.0
+82,84,HP,ProBook 440,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.63,860.0
+83,85,Lenovo,IdeaPad 320-15AST,Notebook,15.6,1920x1080,1920,1080,AMD,4,128,SSD,AMD,Windows 10,2.2,399.0
+84,86,Acer,Aspire 3,Notebook,15.6,1366x768,1366,768,AMD,4,1000,HDD,AMD,Windows 10,2.1,395.0
+85,87,Dell,Inspiron 7577,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,2.65,1349.0
+86,88,HP,Pavilion 15-CK000nv,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.83,699.0
+87,89,HP,250 G6,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.96,598.99
+88,90,Asus,FX503VM-E4007T (i7-7700HQ/16GB/1TB,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,2.2,1449.0
+89,91,Dell,XPS 13,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.21,1649.0
+90,92,Asus,FX550IK-DM018T (FX-9830P/8GB/1TB/Radeon,Gaming,15.6,1920x1080,1920,1080,AMD,8,1000,HDD,AMD,Windows 10,2.45,699.0
+91,93,Acer,Aspire 5,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.2,689.0
+92,94,HP,Probook 430,Notebook,13.3,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.49,1197.0
+93,95,Dell,Inspiron 7577,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.65,1195.0
+94,96,Asus,Zenbook UX430UA,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.25,1049.0
+95,97,Acer,Spin 5,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.5,847.0
+96,98,Dell,Inspiron 3567,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,AMD,Linux,2.2,599.9
+97,99,Dell,Inspiron 3567,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,AMD,Linux,2.2,485.0
+98,100,Asus,X541UV-DM1439T (i3-7100U/6GB/256GB/GeForce,Notebook,15.6,1920x1080,1920,1080,Intel Core,6,256,SSD,Nvidia,Windows 10,2.0,577.0
+99,102,HP,Omen 15-ce007nv,Gaming,15.6,1920x1080,1920,1080,Intel Core,12,128,HDD,Nvidia,Windows 10,2.62,1249.0
+100,103,HP,15-bs017nv (i7-7500U/8GB/256GB/Radeon,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,1.91,719.0
+101,104,HP,15-bw000nv (E2-9000e/4GB/500GB/Radeon,Notebook,15.6,1920x1080,1920,1080,AMD,4,500,HDD,AMD,Windows 10,2.1,349.0
+102,105,Dell,Inspiron 3576,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,AMD,Linux,2.2,647.0
+103,106,HP,Envy 13-ad009n,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.38,1119.0
+104,107,Microsoft,Surface Laptop,Ultrabook,13.5,2256x1504,2256,1504,Intel Core,8,256,SSD,Intel,Windows 10,1.252,1340.0
+105,108,HP,Pavilion 14-BK001nv,Notebook,14.0,1920x1080,1920,1080,Intel Core,6,256,SSD,Nvidia,Windows 10,1.58,659.0
+106,109,Lenovo,Ideapad 310-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,Windows 10,1.85,414.9
+107,110,Asus,UX430UQ-GV209R (i7-7500U/8GB/256GB/GeForce,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.3,1193.0
+108,111,MSI,GP62M 7REX,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.2,1299.0
+109,112,Lenovo,Thinkpad T470,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.58,1480.0
+110,113,Asus,VivoBook S15,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,1.5,1262.0
+111,114,Dell,XPS 13,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Windows 10,1.23,1379.0
+112,115,Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.37,1399.0
+113,116,HP,Probook 440,Notebook,14.0,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.63,722.0
+114,117,Dell,XPS 13,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.21,1629.0
+115,118,HP,Spectre x360,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.26,1398.99
+116,119,HP,Probook 440,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.63,1084.0
+117,120,Dell,Inspiron 7570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,HDD,Nvidia,Windows 10,2.16,1130.33
+118,121,Asus,X705UV-BX074T (i3-6006U/4GB/1TB/GeForce,Notebook,17.3,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,Windows 10,2.0,564.0
+119,122,Asus,VivoBook S15,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.7,1118.0
+120,123,Acer,Spin 3,Notebook,15.6,1920x1080,1920,1080,Intel Core,6,1000,HDD,Intel,Windows 10,2.1,479.0
+121,124,MSI,GS63VR 7RG,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,1.8,2241.5
+122,125,Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,No OS,2.2,629.0
+123,126,HP,Probook 470,Notebook,17.3,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,2.5,1271.0
+124,127,Acer,Aspire 3,Notebook,15.6,1366x768,1366,768,AMD,4,256,SSD,AMD,Windows 10,2.1,451.0
+125,128,HP,250 G6,Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,No OS,1.86,259.0
+126,129,HP,Probook 440,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,1000,HDD,Intel,Windows 10,1.63,812.0
+127,130,Asus,E402WA-GA007T (E2-6110/4GB/64GB/W10,Notebook,14.0,1366x768,1366,768,AMD,4,64,SSD,AMD,Windows 10,1.65,277.99
+128,131,Dell,Inspiron 5770,Notebook,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,AMD,Windows 10,2.8,1396.0
+129,132,HP,ProBook 470,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.5,928.0
+130,133,Dell,Inspiron 5567,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,AMD,Windows 10,2.36,638.99
+131,134,Dell,Inspiron 3567,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,AMD,Windows 10,2.2,449.0
+132,135,Acer,Swift 3,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.6,884.0
+133,136,Acer,Aspire A515-51G-37JS,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,Nvidia,Windows 10,2.2,572.0
+134,137,HP,15-BS078nr (i7-7500U/8GB/1TB/W10),Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,Intel,Windows 10,2.05,598.0
+135,138,HP,Probook 440,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.63,988.0
+136,139,Lenovo,V110-15IAP (N3350/4GB/1TB/No,Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,No OS,1.9,252.36
+137,140,Asus,FX753VD-GC086T (i5-7300HQ/8GB/1TB,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,3.0,938.0
+138,141,Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,No OS,2.2,499.0
+139,142,HP,Envy 13-AD007nv,Notebook,13.3,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,1.32,699.0
+140,143,Acer,Aspire 5,Notebook,17.3,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,Windows 10,3.0,655.0
+141,144,Lenovo,ThinkPad E480,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,1.75,1116.02
+142,145,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,No OS,2.4,869.0
+143,146,Toshiba,Satellite Pro,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.1,602.0
+144,147,HP,255 G6,Notebook,15.6,1366x768,1366,768,AMD,4,256,SSD,AMD,Windows 10,1.86,369.0
+145,148,Asus,ZenBook UX430UA,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.25,1099.0
+146,149,HP,EliteBook Folio,Ultrabook,12.5,3840x2160,3840,2160,Intel Core,8,512,SSD,Intel,Windows 10,0.97,2014.0
+147,150,Asus,X541NA (N3350/4GB/1TB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Other,4,1000,HDD,Intel,Windows 10,2.0,344.0
+148,151,MSI,GE72MVR 7RG,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.9,2029.0
+149,152,Acer,Aspire A315-51,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Windows 10,2.1,447.0
+150,153,Dell,Inspiron 5577,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,2.56,1249.26
+151,154,Dell,Inspiron 7567,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,Hybrid,Nvidia,Windows 10,2.62,899.0
+152,155,Lenovo,V110-15IKB (i5-7200U/4GB/128GB/W10),Notebook,15.6,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,1.9,498.0
+153,156,MSI,GE73VR 7RE,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.8,1890.0
+154,157,HP,EliteBook 840,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,1.48,1082.0
+155,158,HP,15-BS103nv (i5-8250U/6GB/256GB/Radeon,Notebook,15.6,1920x1080,1920,1080,Intel Core,6,256,SSD,AMD,Windows 10,1.91,619.0
+156,159,Lenovo,Yoga 520-14IKB,2 in 1 Convertible,14.0,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,1.74,629.0
+157,160,Asus,ZenBook Flip,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.1,1315.0
+158,161,Dell,Inspiron 5579,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.56,1049.0
+159,163,Toshiba,Satellite Pro,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.1,447.0
+160,164,Asus,X555BP-XX180T (A9-9420/4GB/1TB/Radeon,Notebook,15.6,1366x768,1366,768,AMD,4,1000,HDD,AMD,Windows 10,2.03,403.0
+161,165,Acer,Aspire A517-51G,Notebook,17.3,1920x1080,1920,1080,Intel Core,4,256,SSD,Nvidia,Windows 10,3.0,805.0
+162,166,Dell,Inspiron 3576,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,2.13,728.0
+163,167,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,SSD,Nvidia,Windows 10,2.5,1079.0
+164,168,Acer,Aspire A315-31,Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,Windows 10,2.1,348.0
+165,169,MSI,GE63VR 7RE,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.4,1799.0
+166,170,Acer,Aspire 3,Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,Windows 10,2.1,363.51
+167,171,Dell,Inspiron 5577,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.56,1060.49
+168,172,Acer,Aspire A517-51G,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,3.0,854.0
+169,173,HP,ProBook 430,Notebook,13.3,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,1.49,754.0
+170,174,Huawei,MateBook X,Ultrabook,13.0,2160x1440,2160,1440,Intel Core,8,256,SSD,Intel,Windows 10,1.05,1349.0
+171,175,HP,17-bs001nv (i5-7200U/6GB/2TB/Radeon,Notebook,17.3,1920x1080,1920,1080,Intel Core,6,2000,HDD,AMD,Windows 10,2.71,699.0
+172,176,Lenovo,IdeaPad 320-15AST,Notebook,15.6,1366x768,1366,768,AMD,4,500,HDD,AMD,No OS,2.2,309.0
+173,177,Toshiba,Satellite Pro,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.0,489.0
+174,178,HP,ProBook 470,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.5,923.0
+175,179,Dell,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,Intel,Windows 10,2.3,459.0
+176,180,Acer,Aspire A315-51,Notebook,15.6,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,2.1,449.0
+177,181,MSI,GT80S 6QF-074US,Gaming,18.4,1920x1080,1920,1080,Intel Core,32,512,HDD,Nvidia,Windows 10,4.4,2799.0
+178,182,Lenovo,V310-15IKB (i5-7200U/8GB/1TB,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,AMD,Windows 10,1.9,813.0
+179,183,HP,Spectre x360,2 in 1 Convertible,13.3,3840x2160,3840,2160,Intel Core,8,256,SSD,Intel,Windows 10,1.29,1499.0
+180,184,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,AMD,Linux,2.02,1049.0
+181,185,Dell,XPS 13,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.23,1399.0
+182,186,Lenovo,Yoga 920-13IKB,2 in 1 Convertible,13.9,3840x2160,3840,2160,Intel Core,16,512,SSD,Intel,Windows 10,1.4,1849.0
+183,187,Toshiba,Satellite Pro,Notebook,15.6,1366x768,1366,768,Intel Core,8,128,SSD,Intel,Windows 10,2.0,793.0
+184,188,Xiaomi,Mi Notebook,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,No OS,1.95,1199.0
+185,189,Dell,Inspiron 7773,Notebook,17.3,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,2.77,1549.0
+186,190,Dell,XPS 15,Notebook,15.6,3840x2160,3840,2160,Intel Core,16,512,SSD,Nvidia,Windows 10,2.06,2397.0
+187,191,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,No OS,2.4,779.0
+188,192,Acer,Swift 7,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.12,989.0
+189,193,Dell,Inspiron 5770,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,AMD,Windows 10,2.8,1085.0
+190,194,Lenovo,Thinkpad Yoga,2 in 1 Convertible,14.0,2560x1440,2560,1440,Intel Core,16,1000,SSD,Intel,Windows 10,1.42,2824.0
+191,195,Vero,K147 (N3350/4GB/32GB/FHD/W10),Notebook,14.0,1920x1080,1920,1080,Intel Other,4,32,Storage,Intel,Windows 10,1.3,260.0
+192,196,Xiaomi,Mi Notebook,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,No OS,1.3,999.9
+193,197,Lenovo,IdeaPad 320-17IKBR,Notebook,17.3,1600x900,1600,900,Intel Core,8,256,SSD,Nvidia,No OS,2.8,698.0
+194,198,Dell,Inspiron 5379,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,1000,HDD,Intel,Windows 10,1.62,839.0
+195,199,HP,ProBook 470,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.5,914.0
+196,200,Razer,Blade Pro,Gaming,17.3,3840x2160,3840,2160,Intel Core,32,1000,SSD,Nvidia,Windows 10,3.49,6099.0
+197,201,HP,ProBook 430,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.49,959.0
+198,202,HP,Omen 17-W295,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,3.35,1379.0
+199,203,HP,Probook 470,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.5,1045.0
+200,204,Dell,Inspiron 7577,Gaming,15.6,3840x2160,3840,2160,Intel Core,16,512,HDD,Nvidia,Windows 10,2.65,1845.0
+201,205,Lenovo,V110-15ISK (i5-6200U/4GB/128GB/W10),Notebook,15.6,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,2.1,493.0
+202,206,Acer,Aspire E5-576G,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.23,742.0
+203,207,Lenovo,Legion Y720-15IKB,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,512,HDD,Nvidia,Windows 10,3.2,1749.0
+204,208,Dell,Precision 7520,Workstation,15.6,3840x2160,3840,2160,Intel Other,16,256,HDD,Nvidia,Windows 10,2.8,3055.0
+205,209,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,No OS,2.4,1398.0
+206,210,Dell,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,6,1000,HDD,Intel,Windows 10,2.3,439.0
+207,211,Dell,XPS 13,Ultrabook,13.3,3840x2160,3840,2160,Intel Core,8,256,SSD,Intel,Windows 10,1.21,1949.0
+208,212,Dell,XPS 13,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.2,1449.0
+209,213,Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,1366x768,1366,768,Intel Core,8,256,SSD,Intel,Windows 10,2.2,597.0
+210,215,Acer,Aspire 7,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Linux,2.4,779.0
+211,216,Asus,ROG GL703VD-GC028T,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.9,1407.0
+212,217,HP,15-bs018nq (i3-6006U/4GB/500GB/FHD/No,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,No OS,2.1,349.0
+213,218,Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,No OS,2.2,549.0
+214,219,Huawei,MateBook X,Ultrabook,13.0,2160x1440,2160,1440,Intel Core,8,512,SSD,Intel,Windows 10,1.05,1499.0
+215,220,Dell,Inspiron 5370,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,1.4,931.88
+216,221,Lenovo,IdeaPad 320-17IKB,Notebook,17.3,1600x900,1600,900,Intel Core,8,1000,HDD,Nvidia,No OS,2.8,589.0
+217,222,HP,Probook 440,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.63,1031.0
+218,223,Dell,Latitude 5490,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.6,1149.0
+219,224,Dell,Inspiron 5379,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.62,1279.0
+220,225,Dell,Inspiron 3576,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Linux,2.2,677.35
+221,226,Lenovo,Yoga 520-14IKB,2 in 1 Convertible,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.74,899.0
+222,227,Toshiba,Portege Z30-C-16L,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.2,1363.0
+223,228,HP,ProBook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Intel,Windows 10,2.1,794.0
+224,229,Dell,Alienware 17,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,4.42,2456.34
+225,230,Acer,Aspire E5-576G,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.2,832.0
+226,231,Dell,Inspiron 5567,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,1000,HDD,AMD,Windows 10,2.3,859.01
+227,232,Asus,Vivobook X541UV-DM1217T,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.0,769.0
+228,233,Asus,K756UX-T4340T (i5-7200U/8GB/500GB,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,256,HDD,Nvidia,Windows 10,2.69,891.0
+229,234,HP,ZBook 15u,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,AMD,Windows 10,1.9,1269.0
+230,235,Asus,Pro P2540UA-XO0198T,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Windows 10,2.37,398.99
+231,236,HP,15-rb013nv (E2-9000e/4GB/500GB/W10),Notebook,15.6,1366x768,1366,768,AMD,4,500,HDD,AMD,Windows 10,2.1,330.0
+232,237,Lenovo,Legion Y720-15IKB,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,3.2,1499.0
+233,238,Dell,Vostro 5468,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.6,859.0
+234,239,Acer,Aspire R7,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.6,689.0
+235,240,Dell,Inspiron 5567,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,256,SSD,AMD,Linux,2.36,899.0
+236,241,Acer,Aspire A315-51,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Linux,2.1,390.0
+237,242,Asus,X555QG-DM242T (A10-9620P/4GB/1TB,Notebook,15.6,1920x1080,1920,1080,AMD,4,128,HDD,AMD,Windows 10,2.2,575.0
+238,243,Asus,ROG G703VI-E5062T,Gaming,17.3,1920x1080,1920,1080,Intel Core,32,512,HDD,Nvidia,Windows 10,4.7,3890.0
+239,244,Acer,Nitro AN515-51,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.5,846.0
+240,245,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,1366x768,1366,768,Intel Core,8,128,SSD,Intel,Windows 10,2.2,589.0
+241,246,Asus,VivoBook Pro,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.1,1145.0
+242,247,Asus,F756UX-T4201D (i7-7500U/8GB/128GB,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,No OS,2.69,889.0
+243,248,Dell,Inspiron 5577,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.56,879.0
+244,249,Lenovo,Yoga 910-13IKB,2 in 1 Convertible,13.9,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.38,1079.0
+245,250,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,AMD,Windows 10,2.2,985.0
+246,251,HP,15-bs015dx (i5-7200U/8GB/1TB/W10),Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,Intel,Windows 10,2.04,559.0
+247,252,Asus,Rog G701VIK-BA060T,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,SSD,Nvidia,Windows 10,3.6,2999.0
+248,253,HP,ProBook 430,Notebook,13.3,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,1.49,675.0
+249,254,Apple,MacBook Pro,Ultrabook,13.3,2560x1600,2560,1600,Intel Core,8,512,SSD,Intel,macOS,1.37,2040.0
+250,255,Dell,Inspiron 5579,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Intel,Windows 10,2.08,819.0
+251,256,Asus,ROG G752VSK-GC493T,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,4.3,1799.0
+252,257,Asus,X505BP-BR019T (A9-9420/4GB/1TB/Radeon,Notebook,15.6,1366x768,1366,768,AMD,4,1000,HDD,AMD,Windows 10,1.68,469.0
+253,258,Lenovo,Yoga 920-13IKB,2 in 1 Convertible,13.9,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.37,1849.0
+254,259,Acer,Aspire 5,Notebook,17.3,1920x1080,1920,1080,Intel Core,4,256,SSD,Nvidia,Windows 10,3.0,702.0
+255,260,Dell,Vostro 5370,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.41,949.0
+256,261,HP,15-BW094nd (A6-9220/8GB/128GB/W10),Notebook,15.6,1366x768,1366,768,AMD,8,128,SSD,AMD,Windows 10,1.91,445.9
+257,262,HP,Envy 17-U275cl,Notebook,17.3,1920x1080,1920,1080,Intel Core,16,1000,HDD,Nvidia,Windows 10,2.9,1059.0
+258,263,MSI,GT73EVR 7RE,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,512,HDD,Nvidia,Windows 10,4.14,2499.0
+259,264,Lenovo,Yoga 720-15IKB,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,8,512,SSD,Nvidia,Windows 10,2.0,1699.0
+260,265,Dell,Inspiron 5770,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,AMD,Windows 10,2.8,1142.0
+261,266,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,No OS,2.2,444.0
+262,267,HP,ProBook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,2.1,722.0
+263,268,Dell,Vostro 3568,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,Windows 10,2.18,657.0
+264,269,Dell,Inspiron 3567,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,AMD,Windows 10,2.24,565.0
+265,270,Dell,Inspiron 5579,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.67,799.0
+266,271,Asus,ZenBook Flip,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.1,1499.0
+267,272,Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,No OS,2.2,467.0
+268,273,HP,Probook 470,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.5,1018.0
+269,274,Lenovo,V330-15IKB (i7-8550U/8GB/256GB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.05,880.0
+270,275,Apple,MacBook Pro,Ultrabook,13.3,2560x1600,2560,1600,Intel Core,8,512,SSD,Intel,macOS,1.37,1958.9
+271,276,Asus,Rog Strix,Gaming,17.3,1920x1080,1920,1080,AMD,16,256,HDD,AMD,Windows 10,3.2,1549.0
+272,277,Dell,Inspiron 3576,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Linux,2.14,735.07
+273,278,Lenovo,ThinkPad X1,2 in 1 Convertible,14.0,2560x1440,2560,1440,Intel Core,16,512,SSD,Intel,Windows 10,1.36,2499.0
+274,279,Toshiba,Satellite Pro,Notebook,15.6,1366x768,1366,768,Intel Core,8,500,HDD,Nvidia,Windows 10,2.2,812.0
+275,280,Dell,Inspiron 5567,Notebook,15.6,1366x768,1366,768,Intel Core,12,1000,HDD,Intel,Windows 10,2.3,713.07
+276,281,Dell,Inspiron 5770,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,AMD,Linux,2.8,1099.0
+277,282,Acer,Aspire A515-51G,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.2,745.0
+278,283,Lenovo,IdeaPad 320-17ISK,Notebook,17.3,1600x900,1600,900,Intel Core,4,1000,HDD,Intel,Windows 10,2.8,489.0
+279,284,Lenovo,IdeaPad 320-17IKBR,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,2000,HDD,Nvidia,No OS,2.8,849.0
+280,285,Lenovo,IdeaPad 320-17IKB,Notebook,17.3,1600x900,1600,900,Intel Core,6,128,HDD,Nvidia,Windows 10,2.8,859.0
+281,286,Dell,Inspiron 3567,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,AMD,Linux,2.25,428.0
+282,287,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.5,829.0
+283,288,Lenovo,Ideapad 320-15IKBN,Notebook,15.6,1920x1080,1920,1080,Intel Core,6,256,SSD,Intel,Windows 10,2.2,579.0
+284,289,Acer,Aspire A517-51G,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,3.0,951.0
+285,290,Acer,SP315-51 (i7-7500U/12GB/1TB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Core,12,1000,HDD,Intel,Windows 10,2.15,659.0
+286,291,Lenovo,Thinkpad T570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.95,1097.0
+287,292,Asus,VivoBook S15,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.7,977.0
+288,293,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.5,1179.0
+289,294,Lenovo,IdeaPad 320-15IKB,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,No OS,2.2,659.01
+290,295,Acer,Chromebook C910-C2ST,Notebook,15.6,1366x768,1366,768,Intel Other,2,16,SSD,Intel,Android or Chrome,2.19,199.0
+291,296,Asus,FX753VD-GC071T (i7-7700HQ/8GB/1TB/GeForce,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,3.0,1187.0
+292,297,HP,17-BS037cl (i3-6006U/8GB/1TB/W10),Notebook,17.3,1600x900,1600,900,Intel Core,8,1000,HDD,Intel,Windows 10,2.54,489.0
+293,298,Dell,XPS 15,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.0,1829.0
+294,299,Lenovo,V330-15IKB (i5-8250U/8GB/256GB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.05,739.0
+295,300,Lenovo,Legion Y720-15IKB,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,3.2,1299.0
+296,301,Acer,Aspire A715-71G,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Linux,2.5,979.0
+297,302,Dell,Precision 7720,Workstation,17.3,1920x1080,1920,1080,Intel Core,16,256,SSD,Nvidia,Windows 10,3.42,2884.86
+298,303,Lenovo,IdeaPad 310-15ABR,Notebook,15.6,1920x1080,1920,1080,AMD,6,1000,HDD,AMD,Windows 10,2.4,499.0
+299,304,Asus,ZenBook UX530UQ-PRO,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,1.63,1468.0
+300,305,Asus,VivoBook S14,Notebook,14.0,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,1.3,509.0
+301,306,Asus,Rog GL702VS-GC095T,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.9,2122.0
+302,307,Lenovo,IdeaPad 320-17IKB,Notebook,17.3,1600x900,1600,900,Intel Core,6,1000,HDD,Nvidia,Windows 10,2.8,649.0
+303,308,Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,1366x768,1366,768,Intel Core,8,2000,HDD,Nvidia,No OS,2.2,549.0
+304,309,Asus,GL553VE-FY082T (i7-7700HQ/8GB/1TB,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.5,1265.0
+305,310,Lenovo,IdeaPad 320-15IAP,Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,No OS,2.2,359.99
+306,311,HP,EliteBook x360,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,16,256,SSD,Intel,Windows 10,1.28,1975.0
+307,312,Toshiba,Satellite Pro,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.2,1043.0
+308,313,Lenovo,IdeaPad 320-15IKB,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.3,819.0
+309,314,HP,250 G6,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,Windows 10,1.86,469.0
+310,315,Lenovo,IdeaPad 720S-13IKB,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.1,999.0
+311,316,Dell,XPS 13,Ultrabook,13.3,3840x2160,3840,2160,Intel Core,16,1000,SSD,Intel,Windows 10,1.21,2499.0
+312,317,MSI,GE63VR 7RF,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.8,2099.0
+313,318,Acer,ES1-523-84K7 (A8-7410/8GB/256GB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,AMD,8,256,SSD,AMD,Windows 10,2.23,469.0
+314,319,Asus,VivoBook Flip,2 in 1 Convertible,11.6,1366x768,1366,768,Intel Other,2,32,Storage,Intel,Windows 10,1.1,275.0
+315,320,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,AMD,Windows 10,2.33,844.0
+316,321,HP,Spectre x360,2 in 1 Convertible,13.3,3840x2160,3840,2160,Intel Core,16,1000,SSD,Intel,Windows 10,1.29,2449.0
+317,322,Lenovo,ThinkPad 13,Notebook,13.3,1366x768,1366,768,Intel Other,4,16,Storage,Intel,Android or Chrome,1.45,459.9
+318,323,HP,ProBook 640,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.95,980.0
+319,324,Acer,TravelMate B,Notebook,11.6,1366x768,1366,768,Intel Other,4,128,Storage,Intel,Windows 10,1.4,485.0
+320,325,HP,Elitebook 840,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.48,1292.0
+321,326,Lenovo,IdeaPad 320-17IKB,Notebook,17.3,1600x900,1600,900,Intel Core,4,1000,HDD,Nvidia,Windows 10,2.79,589.0
+322,327,Asus,ZenBook UX410UA-GV183T,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.0,1094.0
+323,329,HP,ProBook 450,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,Intel,Windows 10,2.1,902.0
+324,330,Acer,Aspire 5,Notebook,15.6,1366x768,1366,768,AMD,8,256,SSD,AMD,Windows 10,2.2,659.0
+325,331,Lenovo,IdeaPad 120S-14IAP,Notebook,14.0,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Windows 10,1.44,292.0
+326,332,Acer,Aspire E5-575,Notebook,15.6,1366x768,1366,768,Intel Core,6,1000,HDD,Intel,Windows 10,2.23,549.0
+327,333,Asus,VivoBook S15,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.7,1049.9
+328,334,HP,Elitebook 820,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.26,1335.0
+329,335,Dell,XPS 15,Notebook,15.6,3840x2160,3840,2160,Intel Core,32,1000,SSD,Nvidia,Windows 10,2.06,2639.0
+330,336,MSI,GL72M 7REX,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,256,HDD,Nvidia,Windows 10,2.7,1199.0
+331,337,Toshiba,Satellite Pro,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.0,943.0
+332,338,Asus,UX510UX-CN269T (i7-7500U/8GB/256GB,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,HDD,Intel,Windows 10,2.0,1334.0
+333,339,Lenovo,V310-15ISK (i3-6006U/4GB/1TB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,Windows 10,1.85,449.0
+334,340,Asus,FX553VD-FY647T (i7-7700HQ/8GB/256GB/GeForce,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.5,999.0
+335,341,HP,EliteBook 840,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.48,1268.0
+336,342,Dell,Inspiron 7570,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,1.9,1049.0
+337,343,HP,Elitebook 850,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.84,1144.0
+338,344,Asus,X541NA (N3350/4GB/1TB/Linux),Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,Linux,2.0,274.99
+339,345,Dell,Inspiron 7570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.0,1142.75
+340,346,Dell,Inspiron 3552,Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Linux,2.2,274.9
+341,347,Lenovo,IdeaPad 320-15ABR,Notebook,15.6,1920x1080,1920,1080,AMD,12,2000,HDD,AMD,Windows 10,2.2,899.0
+342,348,HP,ProBook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.1,716.0
+343,349,Lenovo,Yoga 920-13IKB,2 in 1 Convertible,13.9,3840x2160,3840,2160,Intel Core,16,512,SSD,Intel,Windows 10,1.4,2099.0
+344,350,Dell,XPS 13,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.2,1579.0
+345,351,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.4,1129.0
+346,352,HP,Stream 14-AX001nv,Notebook,14.0,1366x768,1366,768,Intel Other,2,32,Storage,Intel,Windows 10,1.44,279.0
+347,353,Dell,Latitude 5590,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.88,1607.96
+348,354,Asus,VivoBook Flip,2 in 1 Convertible,11.6,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Windows 10,1.5,375.0
+349,355,Dell,Inspiron 5570,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,AMD,Windows 10,1.9,663.0
+350,356,Dell,XPS 15,Notebook,15.6,3840x2160,3840,2160,Intel Core,16,512,SSD,Nvidia,Windows 10,2.06,2027.42
+351,357,HP,Elitebook 850,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.84,1304.0
+352,358,MSI,GP72MVR 7RFX,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.7,1409.0
+353,359,HP,Zbook 15,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.6,1738.27
+354,360,Toshiba,Tecra A50-C-21G,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,2.4,1403.0
+355,361,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,AMD,Windows 10,2.02,970.9
+356,362,Lenovo,IdeaPad 320-15IAP,Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,No OS,2.2,321.99
+357,363,Dell,Inspiron 7577,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.65,999.0
+358,364,Dell,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,8,2000,HDD,Intel,Windows 10,2.36,557.37
+359,365,Dell,Latitude 7480,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.36,1427.0
+360,366,HP,250 G6,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.86,439.0
+361,367,Asus,Zenbook UX410UA-GV027T,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.0,945.0
+362,368,Lenovo,IdeaPad 320-17IKB,Notebook,17.3,1600x900,1600,900,Intel Core,6,128,HDD,Nvidia,Windows 10,2.8,719.0
+363,369,HP,250 G6,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Intel,Windows 10,1.86,639.0
+364,370,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,1366x768,1366,768,Intel Core,8,256,SSD,Nvidia,No OS,2.2,499.0
+365,371,HP,15-AY023na (N3710/8GB/2TB/W10),Notebook,15.6,1366x768,1366,768,Intel Other,8,2000,HDD,Intel,Windows 10,2.04,389.0
+366,372,Dell,Inspiron 5770,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,AMD,Windows 10,2.8,1085.0
+367,373,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,No OS,2.4,809.0
+368,374,Dell,Inspiron 5567,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,2.33,899.0
+369,375,HP,Elitebook 1040,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.36,1750.0
+370,376,Asus,ZenBook Flip,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,12,512,HDD,Nvidia,Windows 10,2.26,1099.0
+371,377,Acer,Aspire 3,Notebook,15.6,1366x768,1366,768,AMD,4,128,SSD,AMD,Windows 10,2.1,426.0
+372,378,Asus,Rog Strix,Gaming,17.3,1920x1080,1920,1080,AMD,16,256,HDD,AMD,Windows 10,3.25,2199.0
+373,379,Lenovo,IdeaPad 110-17ACL,Notebook,17.3,1600x900,1600,900,AMD,4,128,SSD,AMD,Windows 10,2.6,489.0
+374,380,Dell,Inspiron 5379,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.62,869.01
+375,381,HP,15-bw003nv (A9-Series-9420/4GB/256GB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,AMD,4,256,SSD,AMD,Windows 10,1.91,488.99
+376,382,Lenovo,Yoga 11e,Netbook,11.6,1366x768,1366,768,Intel Other,4,128,SSD,Intel,Windows 10,1.59,553.0
+377,383,Dell,Inspiron 3552,Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,1.8,309.0
+378,384,Asus,VivoBook E403NA,Notebook,14.0,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Windows 10,1.5,286.0
+379,385,Acer,Aspire 7,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Linux,2.4,846.0
+380,386,HP,Omen 17-w212nv,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,3.35,1191.0
+381,387,Lenovo,V310-15ISK (i3-6006U/4GB/128GB/FHD/No,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,No OS,1.85,403.5
+382,388,Asus,ROG Strix,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.3,1655.0
+383,389,Lenovo,IdeaPad 720S-14IKB,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.5,1099.0
+384,390,Asus,Zenbook Flip,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.1,1748.9
+385,391,Lenovo,Thinkpad X1,Ultrabook,14.0,2560x1440,2560,1440,Intel Core,8,512,SSD,Intel,Windows 10,1.13,2282.0
+386,392,Lenovo,Ideapad 510S-13IKB,Notebook,13.3,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.5,549.0
+387,393,Dell,Precision 3510,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,500,HDD,AMD,Windows 10,2.23,1369.0
+388,394,Dell,Precision 5520,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.0,2135.0
+389,395,Lenovo,ThinkPad X1,2 in 1 Convertible,14.0,2560x1440,2560,1440,Intel Core,16,512,SSD,Intel,Windows 10,1.42,2509.0
+390,396,Asus,Rog GL753VD-GC042T,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,3.0,1039.0
+391,397,Asus,Rog GL753VE-GC070T,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,3.0,1591.0
+392,399,Acer,Aspire 5,Notebook,15.6,1366x768,1366,768,Intel Core,12,1000,HDD,Nvidia,Windows 10,2.2,693.99
+393,400,MSI,Leopard GP72M,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.7,1349.0
+394,401,Dell,Inspiron 5567,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Linux,2.33,778.87
+395,402,HP,15-BW004nv (A9-9420/4GB/256GB/Radeon,Ultrabook,15.6,1920x1080,1920,1080,AMD,4,256,SSD,AMD,Windows 10,1.91,499.0
+396,403,Lenovo,ThinkPad E580,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,2.1,1229.56
+397,404,Lenovo,ThinkPad L470,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.9,938.0
+398,405,Dell,Precision M5520,Workstation,15.6,3840x2160,3840,2160,Intel Core,8,256,SSD,Nvidia,Windows 10,1.78,2712.0
+399,406,Lenovo,Thinkpad X1,Ultrabook,14.0,2560x1440,2560,1440,Intel Core,16,1000,SSD,Intel,Windows 10,1.13,2625.0
+400,407,Lenovo,IdeaPad 320-15IAP,Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,Windows 10,2.2,306.0
+401,408,Asus,FX753VD-GC461T (i7-7700HQ/16GB/1TB,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.9,1529.0
+402,409,Lenovo,ThinkPad E580,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,HDD,AMD,Windows 10,2.1,1144.5
+403,410,Acer,Aspire 7,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Linux,2.5,879.0
+404,411,MSI,GE73VR 7RF,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.8,2249.0
+405,412,Asus,Zenbook 3,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.1,1873.0
+406,413,Toshiba,Portege Z30-C-16P,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.2,1747.0
+407,414,Dell,Latitude 7480,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.36,1680.0
+408,415,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,2.2,409.0
+409,416,Lenovo,Lenovo IdeaPad,Notebook,11.6,1366x768,1366,768,Intel Other,2,32,Storage,Intel,Windows 10,1.15,304.45
+410,417,Lenovo,ThinkPad P51,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,512,SSD,Nvidia,Windows 10,2.67,1925.0
+411,418,Lenovo,Thinkpad T470p,Ultrabook,14.0,2560x1440,2560,1440,Intel Core,8,512,SSD,Nvidia,Windows 10,1.7,1943.0
+412,419,HP,15-BS028nv (i3-6006U/4GB/1TB/Radeon,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,AMD,Windows 10,2.1,469.0
+413,420,Acer,Aspire R7,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.6,789.01
+414,421,Asus,ZenBook Flip,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.27,928.0
+415,422,Dell,Inspiron 3567,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,AMD,Linux,2.3,598.9
+416,423,Dell,Latitude 3380,Notebook,13.3,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,1.65,689.0
+417,424,HP,EliteBook 1040,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.43,1500.0
+418,425,Dell,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,Intel,Windows 10,2.14,539.95
+419,426,Lenovo,ThinkPad E480,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,1.75,1215.38
+420,427,Lenovo,Yoga 720-15IKB,2 in 1 Convertible,15.6,3840x2160,3840,2160,Intel Core,16,512,SSD,Nvidia,Windows 10,2.0,1899.0
+421,428,Chuwi,LapBook 12.3,Notebook,12.3,2736x1824,2736,1824,Intel Other,6,64,Storage,Intel,Windows 10,1.4,449.0
+422,429,HP,ProBook 650,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.31,1427.0
+423,430,Asus,X542UQ-DM117 (i3-7100U/8GB/1TB/GeForce,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Linux,2.3,597.0
+424,431,Dell,Alienware 17,Gaming,17.3,2560x1440,2560,1440,Intel Core,16,256,HDD,Nvidia,Windows 10,4.42,2799.0
+425,432,Dell,Inspiron 7577,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.62,1159.0
+426,433,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,HDD,AMD,Windows 10,2.02,1142.4
+427,434,Dell,Latitude 5480,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Linux,1.6,1099.0
+428,435,HP,Omen 17-w207nv,Gaming,17.3,1920x1080,1920,1080,Intel Core,12,256,HDD,Nvidia,Windows 10,3.35,1999.0
+429,436,Mediacom,FlexBook Edge,2 in 1 Convertible,11.6,1920x1080,1920,1080,Intel Other,4,32,SSD,Intel,Windows 10,1.16,299.0
+430,437,Samsung,Chromebook 3,Netbook,11.6,1366x768,1366,768,Intel Other,4,16,Storage,Intel,Android or Chrome,1.15,269.0
+431,438,Lenovo,Thinkpad 13,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.4,1010.0
+432,439,Lenovo,IdeaPad 320s-14IKB,Notebook,14.0,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.7,599.0
+433,440,Lenovo,Thinkpad T570,Workstation,15.6,3840x2160,3840,2160,Intel Core,16,512,SSD,Nvidia,Windows 10,2.3,2445.0
+434,441,Lenovo,Thinkpad P51,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,2.5,2449.0
+435,442,Asus,Rog Strix,Gaming,17.3,1920x1080,1920,1080,AMD,8,256,HDD,AMD,Windows 10,3.2,1695.0
+436,443,HP,15-ra044nv (N3060/4GB/500GB/W10),Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,2.1,347.0
+437,444,Google,Pixelbook (Core,Ultrabook,12.3,2400x1600,2400,1600,Intel Core,16,512,SSD,Intel,Android or Chrome,1.1,2199.0
+438,445,Lenovo,ThinkPad T470s,Ultrabook,14.0,2560x1440,2560,1440,Intel Core,24,512,SSD,Intel,Windows 10,1.32,2382.0
+439,446,Asus,VivoBook Max,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Linux,2.0,559.0
+440,447,Lenovo,IdeaPad 320-15AST,Notebook,17.3,1600x900,1600,900,AMD,8,1000,HDD,AMD,Windows 10,2.8,519.0
+441,448,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,AMD,Windows 10,2.2,749.0
+442,449,Lenovo,ThinkPad X270,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.36,1429.0
+443,450,Lenovo,IdeaPad 320-15IAP,Notebook,15.6,1920x1080,1920,1080,Intel Other,4,128,SSD,Intel,Windows 10,2.2,349.0
+444,451,HP,Omen 15-AX205na,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.2,1099.0
+445,452,Dell,Latitude 5480,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.64,1179.0
+446,453,Acer,Aspire ES1-572,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Linux,2.4,441.8
+447,454,Dell,Precision 3520,Workstation,15.6,1920x1080,1920,1080,Intel Other,8,64,HDD,Nvidia,Windows 10,2.23,1993.0
+448,455,MSI,GV62 7RD-1686NL,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.2,1027.74
+449,456,Microsoft,Surface Laptop,Ultrabook,13.5,2256x1504,2256,1504,Intel Core,16,512,SSD,Intel,Windows 10,1.25,2589.0
+450,457,HP,15-bs024nv (i5-7200U/8GB/128GB/W10),Notebook,15.6,1366x768,1366,768,Intel Core,8,128,SSD,Intel,Windows 10,1.91,589.0
+451,458,Dell,Precision 3520,Workstation,15.6,1920x1080,1920,1080,Intel Core,16,256,SSD,Nvidia,Windows 10,2.17,1975.0
+452,459,HP,ProBook 650,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,2.31,1534.0
+453,460,Lenovo,ThinkPad T470,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.65,1345.0
+454,461,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,AMD,Windows 10,2.36,979.0
+455,462,Dell,Inspiron 3168,2 in 1 Convertible,11.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,1.47,479.0
+456,463,Dell,Alienware 17,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,4.42,2046.0
+457,464,Microsoft,Surface Laptop,Ultrabook,13.5,2256x1504,2256,1504,Intel Core,4,128,SSD,Intel,Windows 10,1.252,989.0
+458,465,Microsoft,Surface Laptop,Ultrabook,13.5,2256x1504,2256,1504,Intel Core,8,256,SSD,Intel,Windows 10,1.25,1799.0
+459,466,HP,17-BS092ND (i3-6006U/8GB/256GB/W10),Notebook,17.3,1600x900,1600,900,Intel Core,8,256,SSD,Intel,Windows 10,2.5,639.9
+460,467,Acer,Aspire E5-576G,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,Windows 10,2.23,544.0
+461,468,Acer,TravelMate B,Netbook,11.6,1366x768,1366,768,Intel Other,4,128,SSD,Intel,Windows 10,1.4,435.0
+462,469,Asus,Pro P2540UA-AB51,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Intel,Windows 10,2.37,749.0
+463,470,Lenovo,IdeaPad 510s-14IKB,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,512,SSD,AMD,No OS,1.5,799.0
+464,471,Lenovo,Thinkpad P51,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.67,2090.0
+465,472,Asus,X541NA-PD1003Y (N4200/4GB/500GB/W10),Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,2.0,304.0
+466,473,Acer,Aspire 5,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Nvidia,Windows 10,2.2,469.0
+467,474,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,2000,HDD,AMD,Windows 10,2.02,759.0
+468,475,HP,Omen 17-an006nv,Gaming,17.3,1920x1080,1920,1080,Intel Core,12,1000,HDD,Nvidia,Windows 10,3.78,1699.0
+469,476,Lenovo,Thinkpad T460s,Ultrabook,14.0,2560x1440,2560,1440,Intel Core,12,256,SSD,Intel,Windows 10,1.4,1858.0
+470,477,HP,Spectre x360,2 in 1 Convertible,13.3,3840x2160,3840,2160,Intel Core,8,512,SSD,Intel,Windows 10,1.29,1999.0
+471,478,HP,ZBook 15u,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,500,HDD,AMD,Windows 10,1.9,1154.0
+472,479,Google,Pixelbook (Core,Ultrabook,12.3,2400x1600,2400,1600,Intel Core,8,128,SSD,Intel,Android or Chrome,1.1,1275.0
+473,480,Dell,Latitude 7390,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.42,1841.85
+474,481,Asus,ZenBook Pro,Notebook,15.6,3840x2160,3840,2160,Intel Core,12,128,HDD,Intel,Windows 10,2.06,1299.0
+475,482,Dell,Latitude E5470,Notebook,14.0,1366x768,1366,768,Intel Core,8,128,SSD,Intel,Windows 10,1.79,740.0
+476,483,Dell,Precision M5520,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.78,2408.0
+477,484,Lenovo,Thinkpad T470,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,180,SSD,Intel,Windows 10,1.7,1364.0
+478,485,Dell,Inspiron 3576,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,AMD,Windows 10,2.2,675.0
+479,486,Toshiba,Portege X30-D-10J,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.05,1672.0
+480,487,Dell,Inspiron 7570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,512,SSD,Nvidia,Windows 10,2.16,1262.0
+481,488,Dell,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Windows 10,2.18,586.6
+482,489,HP,ProBook 430,Notebook,13.3,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.49,726.0
+483,490,Chuwi,"Lapbook 15,6",Notebook,15.6,1920x1080,1920,1080,Intel Other,4,64,Storage,Intel,Windows 10,1.89,248.9
+484,491,Lenovo,ThinkPad E570,Notebook,15.6,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,2.3,565.0
+485,492,Lenovo,ThinkPad E480,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.75,1049.0
+486,493,Dell,Precision 3520,Workstation,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,2.17,2338.0
+487,494,Dell,XPS 15,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,2.06,1899.0
+488,495,Lenovo,Thinkpad X270,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.36,1798.0
+489,496,Asus,Zenbook UX390UA,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,0.91,1950.0
+490,497,Lenovo,Thinkpad E570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.3,1011.99
+491,498,Toshiba,Portege X30-D-10L,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,32,512,SSD,Intel,Windows 10,1.05,2799.0
+492,499,Asus,VivoBook Pro,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,1.99,1350.0
+493,500,Acer,Aspire 5,Notebook,15.6,1366x768,1366,768,AMD,8,1000,HDD,AMD,Windows 10,2.2,579.0
+494,501,Asus,Rog G752VL-UH71T,Gaming,17.3,1920x1080,1920,1080,Intel Core,24,256,HDD,Nvidia,Windows 10,4.33,1269.0
+495,502,Lenovo,Thinkpad X260,Ultrabook,12.5,1366x768,1366,768,Intel Core,8,180,SSD,Intel,Windows 10,1.3,1099.0
+496,503,Lenovo,Ideapad 520-15IKBR,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.17,898.9
+497,504,HP,EliteBook 840,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,1000,SSD,Intel,Windows 10,1.48,1749.0
+498,505,Lenovo,ThinkPad 13,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.4,949.0
+499,506,Lenovo,ThinkPad L570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.3,911.0
+500,507,Asus,VivoBook E201NA,Netbook,11.6,1366x768,1366,768,Intel Other,4,64,Storage,Intel,Windows 10,1.2,340.0
+501,508,HP,15-BS026nv (i5-7200U/8GB/256GB/Radeon,Notebook,15.6,1366x768,1366,768,Intel Core,8,256,SSD,AMD,Windows 10,1.91,618.99
+502,509,Lenovo,Yoga 920-13IKB,2 in 1 Convertible,13.9,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.4,1599.0
+503,510,Lenovo,IdeaPad 320-14IAP,Notebook,14.0,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,2.1,299.0
+504,511,Lenovo,Chromebook N23,Netbook,11.6,1366x768,1366,768,Intel Other,4,16,SSD,Intel,Android or Chrome,1.25,265.0
+505,512,Lenovo,ThinkPad 13,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.44,949.0
+506,513,Asus,ZenBook UX510UX-CN211T,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,HDD,Intel,Windows 10,2.0,1224.0
+507,514,Acer,Aspire A515-51G-59QF,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,Windows 10,2.2,613.0
+508,515,HP,Envy 13-AB002nv,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.34,1323.0
+509,516,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,HDD,Nvidia,No OS,2.4,1149.0
+510,517,Dell,XPS 13,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,128,SSD,Intel,Windows 10,1.29,899.0
+511,518,Acer,Aspire A515-51G,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,500,HDD,Nvidia,Windows 10,2.2,639.0
+512,519,Dell,Vostro 5568,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Intel,Windows 10,2.18,836.0
+513,520,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,AMD,Windows 10,2.2,1219.24
+514,521,Xiaomi,Mi Notebook,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,256,SSD,Nvidia,No OS,1.95,1399.95
+515,522,Asus,VivoBook E12,Netbook,11.6,1366x768,1366,768,Intel Other,2,32,Storage,Intel,Windows 10,1.1,245.0
+516,523,HP,15-bs190od (i5-8250U/4GB/1TB/W10),Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Windows 10,2.04,521.47
+517,524,Asus,ROG Zephyrus,Gaming,15.6,1920x1080,1920,1080,Intel Core,24,512,SSD,Nvidia,Windows 10,2.24,2968.0
+518,525,HP,Probook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.04,889.0
+519,526,Asus,FX753VE-GC155T (i7-7700HQ/16GB/1TB,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,3.0,1504.0
+520,527,Lenovo,Legion Y720-15IKB,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,HDD,Nvidia,Windows 10,3.2,1399.0
+521,528,HP,Spectre X360,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.32,1399.0
+522,529,Dell,Latitude 5480,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.64,1279.73
+523,530,HP,ProBook 440,Notebook,15.6,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,1.63,689.0
+524,531,Dell,Inspiron 5770,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,AMD,Linux,2.8,889.0
+525,532,Lenovo,ThinkPad L470,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,2.02,1340.0
+526,533,Lenovo,IdeaPad 320-15IKB,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,Windows 10,2.2,799.0
+527,534,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,1366x768,1366,768,Intel Core,8,2000,HDD,Nvidia,No OS,2.2,459.0
+528,535,Dell,Inspiron 3567,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,500,HDD,AMD,Windows 10,2.3,585.0
+529,536,Dell,Latitude 5580,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.9,1377.0
+530,537,Dell,Alienware 17,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,4.42,3012.77
+531,538,Toshiba,Satellite Pro,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,500,HDD,Intel,Windows 10,2.0,860.0
+532,539,Asus,Zenbook UX510UW-FI095T,Notebook,15.6,3840x2160,3840,2160,Intel Core,8,256,HDD,Nvidia,Windows 10,2.0,1299.0
+533,540,Mediacom,SmartBook Edge,Notebook,13.3,1920x1080,1920,1080,Intel Other,4,32,SSD,Intel,Windows 10,1.2,369.0
+534,541,Asus,ROG Strix,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.3,1649.0
+535,542,Dell,Latitude 5580,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.93,1369.0
+536,543,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,2.2,797.41
+537,544,HP,250 G6,Notebook,15.6,1920x1080,1920,1080,Intel Other,4,256,SSD,Intel,Windows 10,1.86,398.99
+538,545,HP,Omen 15-ce006nv,Gaming,17.3,1920x1080,1920,1080,Intel Core,12,1000,HDD,Nvidia,Windows 10,2.62,1799.0
+539,546,Lenovo,Thinkpad E470,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.87,859.0
+540,547,Dell,XPS 13,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Windows 10,1.2,1399.0
+541,548,Dell,Vostro 5468,Notebook,14.0,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.6,735.87
+542,549,HP,Envy 13-AB020nr,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Windows 10,1.34,1145.0
+543,550,Acer,Aspire 7,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Linux,2.4,798.0
+544,551,Asus,VivoBook X540YA-XX519T,Notebook,15.6,1366x768,1366,768,AMD,4,500,HDD,AMD,Windows 10,2.0,349.0
+545,552,HP,ProBook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,2.1,705.5
+546,553,Lenovo,ThinkPad E470,Notebook,14.0,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,1.87,785.0
+547,554,Lenovo,V310-15ISK (i5-6200U/4GB/1TB/FHD/No,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,No OS,2.15,462.35
+548,555,HP,250 G6,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,1.86,397.0
+549,556,Lenovo,ThinkPad T570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.99,1729.0
+550,557,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,2.2,499.0
+551,558,Dell,Latitude 5580,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.9,1116.99
+552,559,Dell,Alienware 17,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,4.42,2699.0
+553,560,HP,17-X047na (i3-6006U/8GB/1TB/W10),Notebook,17.3,1600x900,1600,900,Intel Core,8,1000,HDD,Intel,Windows 10,2.65,544.15
+554,561,HP,ProBook 470,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.63,1280.0
+555,562,Asus,A541NA-GO342 (N3350/4GB/500GB/Linux),Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Linux,2.0,224.0
+556,563,Mediacom,SmartBook 130,Notebook,13.3,1920x1080,1920,1080,Intel Other,4,32,Storage,Intel,Windows 10,1.35,255.0
+557,564,Lenovo,IdeaPad 320-17IKB,Notebook,17.3,1600x900,1600,900,Intel Core,6,128,HDD,Nvidia,Windows 10,2.8,949.0
+558,565,HP,15-bw007nv (A10-9620P/6GB/128GB/Radeon,Notebook,15.6,1920x1080,1920,1080,AMD,6,128,SSD,AMD,Windows 10,1.91,568.9
+559,566,Dell,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,AMD,Windows 10,2.18,617.9
+560,567,Acer,Spin SP111-31,2 in 1 Convertible,11.6,1920x1080,1920,1080,Intel Other,4,32,Storage,Intel,Windows 10,1.25,349.0
+561,568,Lenovo,V330-15IKB (i3-7130U/4GB/128GB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,2.05,630.0
+562,569,HP,EliteBook 1030,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,16,512,SSD,Intel,Windows 10,1.16,1965.0
+563,570,Lenovo,Thinkpad P71,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,3.4,2999.0
+564,571,Asus,FX553VD-DM627T (i5-7300HQ/8GB/1TB,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.5,839.0
+565,572,Dell,XPS 13,Ultrabook,13.3,3840x2160,3840,2160,Intel Core,8,128,SSD,Intel,Windows 10,1.21,1599.0
+566,573,Dell,Latitude 5580,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.93,959.0
+567,574,Fujitsu,Lifebook A557,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,Intel,Windows 10,2.2,739.0
+568,575,Lenovo,IdeaPad 320-15IAP,Notebook,15.6,1920x1080,1920,1080,Intel Other,4,500,HDD,Intel,Windows 10,2.2,344.0
+569,576,Lenovo,ThinkPad L470,Notebook,14.0,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.02,990.0
+570,577,HP,ZBook 17,Workstation,17.3,1600x900,1600,900,Intel Core,8,500,HDD,Nvidia,Windows 10,3.14,1860.99
+571,578,HP,14-am079na (N3710/8GB/2TB/W10),Notebook,14.0,1366x768,1366,768,Intel Other,8,2000,HDD,Intel,Windows 10,1.94,389.0
+572,579,HP,15-cd005nv (A9-9420/6GB/256GB/Radeon,Notebook,15.6,1920x1080,1920,1080,AMD,6,256,SSD,AMD,Windows 10,1.95,649.0
+573,580,Lenovo,Thinkpad E570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.3,830.0
+574,581,Lenovo,V330-15IKB (i5-8250U/4GB/500GB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,2.05,685.0
+575,582,Mediacom,SmartBook 141,Notebook,14.0,1920x1080,1920,1080,Intel Other,4,32,SSD,Intel,Windows 10,1.4,249.0
+576,583,Toshiba,Tecra X40-D-10H,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.24,1865.0
+577,584,Lenovo,IdeaPad Y910-17ISK,Gaming,17.3,1920x1080,1920,1080,Intel Core,32,256,HDD,Nvidia,Windows 10,4.6,2663.0
+578,585,MSI,GT73VR Titan,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,512,HDD,Nvidia,Windows 10,4.14,2729.0
+579,586,Dell,Inspiron 3567,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Linux,2.2,749.01
+580,587,Mediacom,SmartBook Edge,Notebook,14.0,1920x1080,1920,1080,Intel Other,4,32,SSD,Intel,Windows 10,1.45,389.0
+581,588,Dell,Latitude 5580,Notebook,15.6,1366x768,1366,768,Intel Core,8,500,HDD,Intel,Windows 10,1.9,1008.52
+582,589,HP,ProBook 430,Notebook,13.3,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.49,719.0
+583,590,Dell,Latitude 5580,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,256,SSD,Nvidia,Windows 10,1.93,1537.39
+584,591,Dell,Chromebook 11,Netbook,11.6,1366x768,1366,768,Intel Other,4,16,Storage,Intel,Android or Chrome,1.26,295.0
+585,592,MSI,GT80S 6QE,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,4.5,2349.0
+586,593,HP,Omen 17-AN010nv,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,3.78,1498.0
+587,594,Lenovo,Thinkpad T460s,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,12,256,SSD,Intel,Windows 10,1.4,1673.0
+588,595,Lenovo,Ideapad 320-15IKBR,Notebook,15.6,1366x768,1366,768,Intel Core,12,1000,HDD,Intel,Windows 10,2.2,609.0
+589,596,Asus,ROG Strix,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.73,1770.0
+590,597,Asus,TP501UA-CJ131T (i5-7200U/8GB/1TB/W10),2 in 1 Convertible,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,Intel,Windows 10,2.2,739.0
+591,598,Lenovo,IdeaPad 320-15ABR,Notebook,15.6,1920x1080,1920,1080,AMD,12,512,SSD,AMD,Windows 10,2.2,949.0
+592,599,Dell,Inspiron 3179,2 in 1 Convertible,11.6,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,1.39,603.0
+593,600,Samsung,Notebook Odyssey,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,2.5,1699.0
+594,601,Lenovo,V320-17ISK (i3-6006U/4GB/500GB/FHD/No,Notebook,17.3,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,No OS,2.8,529.0
+595,602,Lenovo,IdeaPad 110-15ISK,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,Intel,Windows 10,2.29,459.0
+596,603,Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.37,2025.0
+597,604,Lenovo,Thinkpad T470p,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.7,1474.0
+598,605,Dell,Latitude 5289,2 in 1 Convertible,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.34,1670.0
+599,606,Dell,Precision 3520,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.06,1763.0
+600,607,HP,EliteBook 850,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.84,1219.0
+601,608,HP,ProBook 450,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.1,668.48
+602,609,Acer,Aspire 1,Notebook,14.0,1920x1080,1920,1080,Intel Other,4,32,Storage,Intel,Windows 10,1.6,329.0
+603,610,MSI,Laptop MSI,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,4.14,2199.0
+604,611,Dell,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,AMD,Linux,2.18,465.0
+605,612,MSI,GS63VR 7RF,Gaming,15.6,3840x2160,3840,2160,Intel Core,16,256,HDD,Nvidia,Windows 10,1.8,2299.0
+606,613,Toshiba,Tecra Z50-C-144,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.2,1399.0
+607,614,Lenovo,IdeaPad 310-15IKB,Notebook,15.6,1920x1080,1920,1080,Intel Core,6,1000,HDD,Intel,Windows 10,2.4,564.0
+608,615,Lenovo,Yoga 720-15IKB,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.0,1299.0
+609,616,Acer,Swift SF114-31-P5HY,Notebook,14.0,1366x768,1366,768,Intel Other,4,128,Storage,Intel,Windows 10,1.6,349.0
+610,617,Lenovo,Thinkpad P51,Notebook,15.6,3840x2160,3840,2160,Intel Other,32,1000,SSD,Nvidia,Windows 10,2.5,4899.0
+611,618,Dell,Inspiron 7559,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,1000,HDD,Nvidia,Windows 10,2.59,879.01
+612,619,Dell,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Linux,2.18,443.9
+613,620,Dell,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Linux,2.25,359.0
+614,621,Dell,Latitude 5580,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Linux,1.93,869.0
+615,622,Asus,FX753VD-GC007T (i7-7700HQ/8GB/1TB,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,3.0,1168.0
+616,623,Dell,Vostro 3568,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,128,SSD,AMD,Linux,2.18,569.0
+617,624,HP,EliteBook 850,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.84,1389.0
+618,625,MSI,GT62VR 7RE,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.94,2267.86
+619,626,Acer,CB5-132T-C9KK (N3160/4GB/32GB/Chrome,2 in 1 Convertible,11.6,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Android or Chrome,1.25,379.0
+620,627,HP,ProBook 650,Notebook,14.0,1366x768,1366,768,Intel Core,8,256,SSD,Intel,Windows 10,2.31,1124.0
+621,628,Lenovo,ThinkPad T470,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,1.65,1465.0
+622,629,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,AMD,Windows 10,2.2,776.0
+623,630,Fujitsu,LifeBook A557,Notebook,15.6,1366x768,1366,768,Intel Core,8,256,SSD,Intel,Windows 10,2.2,799.0
+624,631,HP,EliteBook 850,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 7,1.88,932.0
+625,632,Lenovo,IdeaPad 320-15IKB,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.2,899.0
+626,633,Mediacom,SmartBook 140,Notebook,14.0,1920x1080,1920,1080,Intel Other,2,32,Storage,Intel,Windows 10,1.4,239.0
+627,634,Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,No OS,2.2,468.0
+628,635,Asus,Q304UA-BHI5T11 (i5-7200U/6GB/1TB/FHD/W10),2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,6,1000,HDD,Intel,Windows 10,1.5,639.01
+629,636,Dell,XPS 15,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.0,1820.0
+630,637,Asus,ZenBook 3,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.1,1900.0
+631,639,Dell,Inspiron 7567,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.62,1479.0
+632,640,Lenovo,V330-15IKB (i5-8250U/4GB/256GB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,1.8,829.0
+633,641,Lenovo,Ideapad 320-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,Windows 10,2.2,579.0
+634,642,Asus,X541NA-GO414T (N3350/8GB/1TB/W10),Notebook,15.6,1366x768,1366,768,Intel Other,8,1000,HDD,Intel,Windows 10,2.0,399.0
+635,643,Asus,VivoBook Pro,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,1.99,906.62
+636,644,Dell,XPS 13,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Windows 10,1.23,1869.0
+637,645,Lenovo,IdeaPad 100S-14IBR,Notebook,14.0,1366x768,1366,768,Intel Other,2,32,Storage,Intel,Windows 10,1.42,249.0
+638,646,Lenovo,Thinkpad Yoga,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.37,1757.42
+639,647,Dell,XPS 15,Notebook,15.6,3840x2160,3840,2160,Intel Core,16,1000,SSD,Nvidia,Windows 10,2.06,2399.0
+640,648,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.5,1109.0
+641,649,HP,17-AK091ND (A9-9420/8GB/1TB/W10),Notebook,17.0,1600x900,1600,900,AMD,8,1000,HDD,AMD,Windows 10,2.6,520.9
+642,650,Lenovo,ThinkPad X1,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.14,2450.0
+643,651,Asus,ROG GL553VE-FY022,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,No OS,2.5,1169.0
+644,652,Acer,Extensa EX2540,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.4,450.0
+645,653,Lenovo,IdeaPad 100S-14IBR,Notebook,14.0,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Windows 10,1.43,274.0
+646,654,Acer,Swift 3,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.8,919.0
+647,655,Razer,Blade Pro,Gaming,14.0,1920x1080,1920,1080,Intel Core,16,256,SSD,Nvidia,Windows 10,1.95,2599.0
+648,656,Toshiba,Portege Z30-C-16J,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.2,1213.0
+649,657,Lenovo,Thinkpad X270,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.36,1584.0
+650,658,Asus,ROG G701VI,Gaming,17.3,1920x1080,1920,1080,Intel Core,32,512,SSD,Nvidia,Windows 10,3.8,2799.0
+651,659,Acer,A715-71G-59DH (i5-7300HQ/8GB/1TB/GeForce,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Linux,2.4,709.0
+652,660,Dell,XPS 13,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.2,1449.9
+653,661,MSI,GL62M 7REX,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.2,1191.8
+654,662,HP,250 G6,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,No OS,1.86,364.9
+655,663,Toshiba,Tecra A50-D-11M,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,500,HDD,Intel,Windows 10,2.0,1064.0
+656,664,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,2.2,919.0
+657,665,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,AMD,Windows 10,2.2,1135.0
+658,666,Lenovo,IdeaPad Y700-15ISK,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,3.31,1196.0
+659,667,Dell,Alienware 17,Gaming,17.3,3840x2160,3840,2160,Intel Core,32,512,HDD,Nvidia,Windows 10,4.42,3147.37
+660,668,Dell,Latitude E7470,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.56,1229.0
+661,669,Lenovo,Ideapad 320-15IAP,Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,2.2,419.0
+662,670,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,2.2,535.0
+663,671,HP,15-ay047nv (i3-6006U/6GB/1TB/Radeon,Notebook,15.6,1920x1080,1920,1080,Intel Core,6,1000,HDD,AMD,Windows 10,2.04,539.0
+664,672,MSI,GP72VR Leopard,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.7,1486.77
+665,673,Toshiba,Satellite Pro,Notebook,15.6,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,2.1,498.0
+666,674,Dell,Latitude 3580,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Intel,Windows 10,2.06,955.0
+667,675,HP,15-bs012nv (i7-7500U/8GB/1TB/Radeon,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,AMD,Windows 10,2.1,745.0
+668,676,Toshiba,Tecra Z50-D-10E,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.0,1258.0
+669,677,Acer,Aspire 3,Notebook,15.6,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Linux,2.1,412.0
+670,678,Microsoft,Surface Laptop,Ultrabook,13.5,2256x1504,2256,1504,Intel Core,8,256,SSD,Intel,Windows 10,1.252,1867.85
+671,679,Lenovo,V310-15ISK (i5-7200U/8GB/1TB,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,AMD,Windows 10,1.9,817.95
+672,680,Lenovo,Yoga 720-13IKB,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.3,1034.0
+673,681,Lenovo,IdeaPad 320-15AST,Notebook,15.6,1366x768,1366,768,AMD,4,128,SSD,AMD,Windows 10,2.2,349.0
+674,682,HP,Pavilion X360,2 in 1 Convertible,14.0,1920x1080,1920,1080,Intel Core,4,128,SSD,Nvidia,Windows 10,1.63,699.0
+675,683,MSI,GP62 7RDX,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.4,1294.0
+676,684,Asus,Zenbook 3,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.1,1135.0
+677,685,HP,Chromebook X360,2 in 1 Convertible,11.6,1366x768,1366,768,Intel Other,8,64,Storage,Intel,Android or Chrome,1.4,495.0
+678,686,LG,Gram 15Z975,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.09,2299.0
+679,687,Acer,Aspire VX5-591G,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,SSD,Nvidia,Windows 10,2.5,1299.0
+680,688,MSI,GV62M 7RD,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.2,997.9
+681,689,Asus,L502NA-GO052T (N3350/4GB/128GB/W10),Notebook,15.6,1366x768,1366,768,Intel Other,4,128,SSD,Intel,Windows 10,1.86,419.0
+682,690,Dell,Alienware 15,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,3.21,2051.0
+683,691,HP,17-bs000nv I3,Notebook,17.3,1920x1080,1920,1080,Intel Core,4,256,SSD,AMD,Windows 10,2.5,699.0
+684,692,Lenovo,Yoga 730,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.19,1499.0
+685,693,Dell,Alienware 15,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,3.49,2813.75
+686,694,HP,250 G6,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,AMD,Windows 10,1.86,612.61
+687,695,Dell,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,AMD,Windows 10,2.2,545.67
+688,696,HP,17-Y002nv (A10-9600P/6GB/2TB/Radeon,Notebook,17.3,1920x1080,1920,1080,AMD,6,2000,HDD,AMD,Windows 10,2.65,569.0
+689,697,Lenovo,V110-15ISK (3855U/4GB/500GB/W10),Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,2.1,318.0
+690,698,Acer,Chromebook 14,Notebook,14.0,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Android or Chrome,1.45,375.0
+691,699,Lenovo,IdeaPad 520s-14IKB,Notebook,14.0,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,1.7,699.0
+692,700,HP,ZBook 17,Workstation,17.3,1920x1080,1920,1080,Intel Core,8,500,HDD,Nvidia,Windows 10,3.14,1907.99
+693,701,Lenovo,ThinkPad X1,2 in 1 Convertible,14.0,2560x1440,2560,1440,Intel Core,8,256,SSD,Intel,Windows 10,1.42,2590.0
+694,702,Toshiba,Satellite Pro,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.5,973.0
+695,703,Acer,TravelMate B117-M,Netbook,11.6,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Windows 10,1.4,269.0
+696,704,Lenovo,Yoga 910-13IKB,2 in 1 Convertible,14.0,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.38,1749.0
+697,705,Asus,Chromebook Flip,2 in 1 Convertible,12.5,1920x1080,1920,1080,Intel Core,4,64,Storage,Intel,Android or Chrome,1.2,669.0
+698,706,Toshiba,Portege Z30T-C-133,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.36,1877.0
+699,707,HP,15-bs011nv (i7-7500U/4GB/500GB/Radeon,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,500,HDD,AMD,Windows 10,2.1,689.0
+700,708,Dell,Inspiron 5577,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.56,819.0
+701,709,Lenovo,IdeaPad 320-15AST,Notebook,15.6,1920x1080,1920,1080,AMD,4,256,SSD,AMD,Windows 10,2.2,399.0
+702,710,Lenovo,IdeaPad 320-15ABR,Notebook,15.6,1366x768,1366,768,AMD,8,1000,HDD,AMD,Windows 10,2.2,429.0
+703,711,Lenovo,V310-15IKB (i5-7200U/4GB/1TB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,Windows 10,2.1,621.45
+704,712,Lenovo,V310-15ISK (i3-6006U/4GB/500GB/No,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,No OS,1.9,450.0
+705,713,Dell,Vostro 5568,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.18,795.0
+706,714,Acer,Spin 5,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.6,999.0
+707,715,Lenovo,ThinkPad P51s,Workstation,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 7,2.18,1855.0
+708,716,Lenovo,Thinkpad T460p,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.8,1191.0
+709,717,HP,17-ak002nv (A10-9620P/6GB/2TB/Radeon,Notebook,17.3,1920x1080,1920,1080,AMD,6,2000,HDD,AMD,Windows 10,2.71,655.01
+710,718,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.5,1249.0
+711,719,Dell,Latitude 5480,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Linux,1.64,1089.0
+712,720,Dell,Vostro 5568,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Intel,Linux,1.98,726.0
+713,721,Asus,VivoBook E403NA,Notebook,14.0,1920x1080,1920,1080,Intel Other,4,32,Storage,Intel,Windows 10,1.5,298.0
+714,722,Dell,Latitude 5580,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.93,1426.66
+715,723,Lenovo,Thinkpad E470,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.87,857.07
+716,724,Dell,Latitude 5580,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.9,1179.0
+717,725,Lenovo,110-15ACL (A6-7310/4GB/500GB/W10),Notebook,15.6,1366x768,1366,768,AMD,4,500,HDD,AMD,Windows 10,2.19,298.0
+718,726,Mediacom,Smartbook 142,Notebook,14.0,1920x1200,1920,1200,Intel Other,4,32,HDD,Intel,Windows 10,1.4,265.0
+719,727,HP,ProBook 470,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.63,1200.0
+720,728,Lenovo,ThinkPad X1,Ultrabook,14.0,2560x1440,2560,1440,Intel Core,8,512,SSD,Intel,Windows 10,1.17,1686.64
+721,729,HP,Pavilion X360,2 in 1 Convertible,13.3,1366x768,1366,768,Intel Core,8,256,SSD,Intel,Windows 10,1.58,836.6
+722,730,Lenovo,ThinkPad T470s,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.32,1499.0
+723,731,Dell,Alienware 17,Gaming,17.3,3840x2160,3840,2160,Intel Core,32,1000,HDD,Nvidia,Windows 10,4.36,3659.4
+724,732,MSI,GL72M 7REX,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.7,1348.48
+725,733,Lenovo,V310-15IKB (i5-7200U/4GB/1TB/No,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,No OS,1.9,489.9
+726,734,Dell,Inspiron 5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,AMD,Windows 10,2.2,719.0
+727,735,Dell,Inspiron 5378,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,Windows 10,1.71,649.0
+728,736,Dell,Inspiron 5567,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,AMD,Linux,2.32,589.52
+729,737,HP,15-BW037na (A9-9420/4GB/1TB/Radeon,Notebook,15.6,1920x1080,1920,1080,AMD,4,1000,HDD,AMD,Windows 10,2.1,489.0
+730,738,Acer,Predator 17,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,4.2,1935.0
+731,739,Dell,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,12,1000,HDD,Intel,Windows 10,2.25,649.0
+732,740,HP,15-BW091ND (A9-9420/6GB/1TB,Notebook,15.6,1920x1080,1920,1080,AMD,6,128,HDD,AMD,Windows 10,2.1,650.0
+733,741,Acer,Extensa EX2540-58KR,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.4,559.0
+734,742,Lenovo,ThinkPad 13,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.44,960.0
+735,743,Lenovo,V310-15IKB (i7-7500U/4GB/1TB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,Windows 10,1.85,779.0
+736,744,HP,ZBook 15,Workstation,15.6,1920x1080,1920,1080,Intel Core,16,256,SSD,Nvidia,Windows 10,2.6,2419.0
+737,745,Dell,Inspiron 5379,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,1000,HDD,Intel,Windows 10,1.55,659.0
+738,746,MSI,GS63VR 7RF,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,1.8,2094.48
+739,747,Acer,Aspire ES1-572,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.4,410.8
+740,748,Dell,Inspiron 7560,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.0,1207.0
+741,749,Dell,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,8,256,SSD,Intel,Windows 10,2.0,665.0
+742,750,Toshiba,Tecra X40-D-10G,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.25,1535.0
+743,751,Lenovo,Flex 5,2 in 1 Convertible,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.7,999.0
+744,752,Lenovo,Thinkpad P51s,Workstation,15.6,3840x2160,3840,2160,Intel Core,16,1000,SSD,Nvidia,Windows 10,2.5,3299.0
+745,753,Acer,Chromebook 14,Notebook,14.0,1366x768,1366,768,Intel Other,2,32,Storage,Intel,Android or Chrome,1.68,330.0
+746,754,Samsung,Notebook 9,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,16,256,SSD,Intel,Windows 10,0.81,1649.0
+747,755,HP,250 G6,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.86,539.0
+748,757,Dell,Latitude 5480,Notebook,14.0,1366x768,1366,768,Intel Core,8,256,SSD,Intel,Windows 10,1.6,1126.71
+749,758,HP,Zbook 17,Workstation,17.3,1920x1080,1920,1080,Intel Other,16,256,SSD,Nvidia,Windows 7,3.0,4389.0
+750,759,Lenovo,N23 (N3060/4GB/128GB/W10),Netbook,11.6,1366x768,1366,768,Intel Other,4,128,SSD,Intel,Windows 10,1.4,475.0
+751,760,HP,EliteBook 850,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.84,1900.0
+752,761,Asus,X550VX-XX015D (i5-6300HQ/4GB/1TB/GeForce,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Nvidia,No OS,2.45,579.0
+753,762,Lenovo,Thinkpad T460,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,4,180,SSD,Intel,Windows 10,1.7,1096.0
+754,763,Asus,Pro P2540UA-XO0192R,Notebook,15.6,1366x768,1366,768,Intel Core,4,256,SSD,Intel,Windows 10,2.37,849.9
+755,764,Lenovo,Yoga 900-13ISK,2 in 1 Convertible,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Windows 10,1.3,1199.0
+756,765,HP,15-cb003na (i5-7300HQ/8GB/1TB,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.2,1099.0
+757,766,HP,ZBook 15,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 7,2.59,1561.0
+758,767,Dell,Alienware 17,Gaming,15.6,3840x2160,3840,2160,Intel Core,16,256,HDD,Nvidia,Windows 10,4.42,2868.99
+759,768,Acer,Aspire 3,Notebook,15.6,1366x768,1366,768,Intel Core,4,256,SSD,Intel,Windows 10,2.1,599.0
+760,769,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.5,1048.0
+761,770,Dell,Latitude 7280,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,16,256,SSD,Intel,Windows 10,1.18,1859.0
+762,771,Google,Pixelbook (Core,Ultrabook,12.3,2400x1600,2400,1600,Intel Core,8,256,SSD,Intel,Android or Chrome,1.1,1559.0
+763,772,Asus,Zenbook UX330UA-AH5Q,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Windows 10,1.2,1129.0
+764,773,Dell,Latitude 3380,Notebook,13.3,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.65,849.0
+765,774,Acer,TravelMate P238-M,Notebook,13.3,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,1.6,655.0
+766,775,Asus,X751NV-TY001 (N4200/4GB/1TB/GeForce,Notebook,17.3,1366x768,1366,768,Intel Other,4,1000,HDD,Nvidia,Windows 10,2.8,470.34
+767,776,Dell,Inspiron 7559,Gaming,15.6,3840x2160,3840,2160,Intel Core,16,128,HDD,Nvidia,Windows 10,2.72,1099.0
+768,777,Samsung,Notebook 9,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.31,1599.0
+769,778,Acer,Aspire A315-31,Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,Linux,2.1,298.0
+770,779,Dell,Inspiron 5567,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,256,SSD,AMD,Windows 10,2.3,1181.27
+771,780,Samsung,Notebook 9,2 in 1 Convertible,15.0,1920x1080,1920,1080,Intel Core,16,256,SSD,AMD,Windows 10,1.71,1799.0
+772,781,Toshiba,Tecra A40-C-1E5,Notebook,14.0,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,1.75,1020.0
+773,782,Dell,Inspiron 7567,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.62,1099.0
+774,783,HP,EliteBook 820,Ultrabook,12.5,1366x768,1366,768,Intel Core,4,256,SSD,Intel,Windows 10,1.26,1244.0
+775,784,Asus,Q524UQ-BHI7T15 (i7-7500U/12GB/2TB/GeForce,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,12,2000,HDD,Nvidia,Windows 10,2.3,839.0
+776,785,Lenovo,Thinkpad P50,Notebook,15.6,3840x2160,3840,2160,Intel Core,16,512,SSD,Nvidia,Windows 7,2.5,2370.0
+777,786,Acer,Swift 3,Notebook,14.0,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.8,636.0
+778,787,Razer,Blade Pro,Gaming,14.0,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,1.95,2899.0
+779,788,Asus,Vivobook Max,Notebook,15.6,1920x1080,1920,1080,Intel Other,8,128,SSD,Intel,Windows 10,2.0,581.9
+780,789,Dell,Alienware 17,Gaming,17.3,1920x1080,1920,1080,Intel Core,32,1000,HDD,Nvidia,Windows 10,4.42,3588.8
+781,790,Asus,Rog G752VS-BA171T,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,4.3,2350.0
+782,791,Toshiba,Tecra Z40-C-161,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,1.47,1764.0
+783,792,Lenovo,IdeaPad 110-15IBR,Notebook,15.6,1366x768,1366,768,Intel Other,8,1000,HDD,Intel,No OS,2.2,329.0
+784,793,Lenovo,ThinkPad T470s,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.7,2299.0
+785,794,MSI,GS43VR 7RE,Gaming,14.0,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,1.6,1891.0
+786,795,MSI,GL62M (i5-7300HQ/8GB/1TB,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.2,1089.0
+787,796,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,Windows 10,2.4,999.0
+788,797,Acer,Predator G9-793,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,4.2,2299.0
+789,798,Dell,Inspiron 7567,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.62,985.0
+790,799,Asus,FX502VM-DM560T (i7-7700HQ/8GB/1TB,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.24,1339.0
+791,800,Vero,K146 (N3350/4GB/32GB/W10),Notebook,14.0,1920x1080,1920,1080,Intel Other,4,32,Storage,Intel,Windows 10,1.22,202.9
+792,801,Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.37,1970.0
+793,802,Lenovo,Yoga 510-15IKB,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,2.08,959.0
+794,803,Apple,"MacBook 12""",Ultrabook,12.0,2304x1440,2304,1440,Intel Core,8,512,Storage,Intel,macOS,0.92,1165.0
+795,804,Lenovo,ThinkPad X1,2 in 1 Convertible,14.0,2560x1440,2560,1440,Intel Core,8,256,SSD,Intel,Windows 10,1.42,2330.0
+796,805,Asus,R417NA-RS01 (N3350/4GB/32GB/W10),Notebook,14.0,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Windows 10,1.63,299.0
+797,806,Dell,Latitude 3580,Notebook,15.6,1366x768,1366,768,Intel Core,8,128,SSD,Intel,Windows 10,1.95,810.0
+798,807,Lenovo,Yoga 910-13IKB,2 in 1 Convertible,13.9,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.38,1349.0
+799,808,Dell,Vostro 5568,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,2.0,739.0
+800,809,HP,ZBook 17,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,3.14,2064.9
+801,810,Asus,Pro P2540UA-XS51,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.37,1099.0
+802,811,Dell,XPS 13,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.29,1499.0
+803,812,Dell,XPS 15,Notebook,15.6,3840x2160,3840,2160,Intel Core,8,256,SSD,Nvidia,Windows 10,2.06,1749.0
+804,813,Dell,Latitude 3180,Netbook,11.6,1366x768,1366,768,Intel Other,4,128,SSD,Intel,Windows 10,1.63,744.0
+805,814,HP,EliteBook 820,Netbook,12.5,1366x768,1366,768,Intel Core,8,256,SSD,Intel,Windows 10,1.26,1389.0
+806,815,Toshiba,Satellite Pro,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.1,780.0
+807,816,HP,15-ba043na (A12-9700P/8GB/2TB/W10),Notebook,15.6,1366x768,1366,768,AMD,8,2000,HDD,AMD,Windows 10,2.04,629.0
+808,817,Dell,Inspiron 7567,Gaming,15.6,3840x2160,3840,2160,Intel Core,16,512,SSD,Nvidia,Windows 10,2.62,1679.0
+809,818,Lenovo,IdeaPad 310-15IKB,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,Windows 10,2.4,609.0
+810,819,HP,Omen 17-an012dx,Gaming,17.3,1920x1080,1920,1080,Intel Core,12,1000,HDD,AMD,Windows 10,3.74,1749.0
+811,820,MSI,GE72MVR 7RG,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,512,HDD,Nvidia,Windows 10,2.9,2415.0
+812,821,Samsung,Notebook 9,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,0.81,1499.0
+813,822,Dell,Vostro 5568,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,1.98,961.0
+814,823,Dell,Vostro 3568,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,2.18,789.81
+815,824,Lenovo,Thinkpad T470s,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.32,1859.0
+816,825,Razer,Blade Stealth,Ultrabook,12.5,3840x2160,3840,2160,Intel Core,16,512,SSD,Intel,Windows 10,1.29,1799.0
+817,826,HP,Chromebook 11,Netbook,11.6,1366x768,1366,768,Intel Other,4,16,Storage,Intel,Android or Chrome,1.23,385.0
+818,827,Dell,Alienware 17,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,4.36,2505.02
+819,828,Dell,Latitude 3480,Notebook,14.0,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.76,755.0
+820,829,Lenovo,V110-15ISK (i3-6006U/4GB/500GB/W10),Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.1,489.9
+821,830,Toshiba,Tecra X40-D-10Z,Ultrabook,14.0,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,1.25,1090.0
+822,831,Lenovo,Thinkpad X1,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.13,2499.0
+823,832,MSI,GL62M 7RD,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.4,1199.0
+824,833,Lenovo,ThinkPad X1,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,Storage,Intel,Windows 10,1.13,1875.0
+825,834,Toshiba,Satellite Pro,Notebook,14.0,1366x768,1366,768,Intel Other,4,128,SSD,Intel,Windows 10,1.75,499.0
+826,835,Asus,ZenBook Flip,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.1,1358.0
+827,836,Dell,Latitude 3480,Notebook,14.0,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.76,585.0
+828,837,Acer,Chromebook 11,Netbook,11.6,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Android or Chrome,1.35,355.0
+829,838,Acer,Swift 3,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,128,SSD,Intel,Windows 10,1.5,619.0
+830,839,Razer,Blade Pro,Gaming,17.3,3840x2160,3840,2160,Intel Core,32,512,SSD,Nvidia,Windows 10,3.49,5499.0
+831,840,Lenovo,Thinkpad X1,Ultrabook,14.0,2560x1440,2560,1440,Intel Core,16,512,SSD,Intel,Windows 10,1.1,2099.0
+832,841,Asus,VivoBook Max,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,Linux,2.1,519.0
+833,842,Lenovo,Thinkpad T460,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.7,1186.0
+834,843,Lenovo,ThinkPad T470s,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.32,1650.0
+835,844,Dell,Alienware 15,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,3.21,2774.63
+836,845,Asus,Rog GL702VS-BA023T,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.9,2419.0
+837,846,Toshiba,Satellite Pro,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.0,669.0
+838,847,Lenovo,N42-20 Chromebook,Notebook,14.0,1366x768,1366,768,Intel Other,4,16,Storage,Intel,Android or Chrome,1.5,325.0
+839,848,Asus,R558UA-DM966T (i5-7200U/8GB/128GB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Intel,Windows 10,2.3,590.0
+840,849,Asus,Rog GL702VM-GC017T,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,512,HDD,Nvidia,Windows 10,2.73,1799.0
+841,851,Dell,Alienware 17,Gaming,17.3,1920x1080,1920,1080,Intel Core,32,512,HDD,Nvidia,Windows 10,4.42,3072.89
+842,852,HP,ProBook 470,Notebook,17.3,1600x900,1600,900,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.63,910.0
+843,853,Dell,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,8,128,SSD,Intel,Windows 10,2.18,713.99
+844,854,HP,EliteBook 840,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 7,1.54,1870.0
+845,855,Dell,Vostro 3568,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,AMD,Windows 10,2.18,739.0
+846,856,HP,Chromebook X360,2 in 1 Convertible,11.6,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Android or Chrome,1.4,615.0
+847,857,Asus,ZenBook UX310UQ-GL026T,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,512,SSD,Nvidia,Windows 10,1.45,1026.0
+848,858,HP,EliteBook x360,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.28,2277.0
+849,859,HP,EliteBook 840,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.54,1468.0
+850,860,HP,250 G6,Notebook,15.6,1366x768,1366,768,Intel Other,4,128,SSD,Intel,No OS,1.86,299.0
+851,862,Asus,Rog GL502VM-DS74,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,2.1,1899.0
+852,863,Dell,Inspiron 5767,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,1000,HDD,AMD,Linux,2.83,865.0
+853,864,Lenovo,ThinkPad T470p,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.96,1903.0
+854,865,Asus,K556UR-DM621T (i7-7500U/8GB/256GB/GeForce,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.3,787.0
+855,866,Dell,Latitude 5580,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,SSD,Intel,Windows 10,1.9,945.0
+856,867,Asus,X541NA (N4200/4GB/1TB/W10),Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,Windows 10,2.0,449.0
+857,868,HP,EliteBook x360,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.28,2559.0
+858,869,Dell,Inspiron 5368,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,1000,HDD,Intel,Windows 10,1.62,649.0
+859,870,Lenovo,IdeaPad 110-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,No OS,2.2,469.0
+860,871,Lenovo,ThinkPad E570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Intel,Windows 10,2.3,850.66
+861,872,HP,EliteBook 850,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,1.84,1349.0
+862,873,Toshiba,Portege X30-D-10X,Notebook,13.3,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.05,1285.0
+863,874,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,No OS,2.5,1017.0
+864,875,Dell,XPS 13,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,16,512,SSD,Intel,Windows 10,1.29,2240.0
+865,876,HP,Probook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,2.07,910.0
+866,877,Toshiba,PortÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©gÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Z30-C-188,Ultrabook,13.3,1366x768,1366,768,Intel Core,8,256,SSD,Intel,Windows 10,1.2,1095.0
+867,878,Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.37,1950.0
+868,879,Acer,TMX349-G2-M-50FS (i5-7200U/8GB/256GB/FHD/W10),Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.56,902.0
+869,880,Dell,Precision 3520,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.23,1778.0
+870,881,Lenovo,ThinkPad L570,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.38,1055.0
+871,882,Lenovo,IdeaPad 110-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,AMD,No OS,2.2,479.0
+872,883,Toshiba,Tecra A50-D-11D,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.0,1388.0
+873,884,Lenovo,Thinkpad 13,Notebook,13.3,1920x1080,1920,1080,Intel Core,4,180,SSD,Intel,Windows 10,1.44,735.0
+874,885,Samsung,Notebook 9,Ultrabook,15.0,1920x1080,1920,1080,Intel Core,16,256,SSD,Nvidia,Windows 10,1.23,1849.0
+875,886,Dell,Latitude 7280,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.6,1690.0
+876,887,Asus,X541NA-GO121 (N4200/4GB/1TB/Linux),Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,Linux,2.0,398.99
+877,888,Xiaomi,Mi Notebook,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.28,935.0
+878,889,Dell,Vostro 5568,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,128,HDD,Nvidia,Windows 10,2.18,912.5
+879,890,HP,ProBook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,2.04,839.0
+880,891,HP,EliteBook x360,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,1.28,1700.0
+881,892,HP,Pavilion x360,2 in 1 Convertible,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.3,684.8
+882,893,Asus,VivoBook L402NA,Notebook,14.1,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Windows 10,1.65,348.0
+883,894,Lenovo,IdeaPad 510-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.2,669.0
+884,895,Dell,Inspiron 3552,Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,2.2,369.0
+885,896,HP,EliteBook x360,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,1.28,1799.0
+886,897,Dell,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,AMD,Linux,2.18,455.7
+887,898,Asus,Rog GL753VD-GC082T,Gaming,17.3,1920x1080,1920,1080,Intel Core,12,128,HDD,Nvidia,Windows 10,2.2,1369.9
+888,899,Acer,Chromebook C731-C78G,Netbook,11.6,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Android or Chrome,1.25,297.0
+889,900,Lenovo,IdeaPad 110-17ACL,Notebook,17.3,1600x900,1600,900,AMD,4,500,HDD,AMD,Windows 10,2.8,379.0
+890,901,HP,Probook 640,Notebook,14.0,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.95,1265.0
+891,902,HP,Envy x360,2 in 1 Convertible,13.3,3200x1800,3200,1800,Intel Core,16,256,SSD,Intel,Windows 10,1.42,1399.0
+892,903,Samsung,Notebook 9,Ultrabook,15.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.17,1699.0
+893,904,Lenovo,ThinkPad T470s,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.32,1799.0
+894,905,MSI,GS73VR Stealth,Gaming,17.3,3840x2160,3840,2160,Intel Core,16,512,HDD,Nvidia,Windows 10,2.43,2649.0
+895,906,Toshiba,Portege X30-D-10V,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.05,1475.0
+896,908,Dell,Inspiron 7567,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Linux,2.62,929.0
+897,909,HP,ProBook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.04,900.0
+898,910,Dell,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,AMD,Windows 10,2.18,614.0
+899,911,Dell,Latitude 5580,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,500,HDD,Intel,Windows 10,1.9,935.0
+900,912,Dell,XPS 13,2 in 1 Convertible,13.3,3200x1800,3200,1800,Intel Core,8,512,SSD,Intel,Windows 10,1.24,2013.1
+901,913,Asus,G701VO-IH74K (i7-6820HK/32GB/2x,Gaming,17.3,1920x1080,1920,1080,Intel Core,32,256,SSD,Nvidia,Windows 10,3.58,1279.0
+902,914,Dell,XPS 13,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,16,256,SSD,Intel,Windows 10,1.22,1649.0
+903,915,Lenovo,ThinkPad X1,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,Storage,Intel,Windows 10,1.13,2049.0
+904,916,Lenovo,ThinkPad T570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.95,1962.99
+905,917,LG,Gram 15Z970,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.08,2099.0
+906,918,HP,Elitebook 820,Netbook,12.5,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.26,1483.0
+907,919,Acer,Chromebook CB5-571-C1DZ,Notebook,15.6,1920x1080,1920,1080,Intel Other,4,16,Storage,Intel,Android or Chrome,2.2,359.0
+908,920,Lenovo,IdeaPad Y700-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.6,789.0
+909,922,LG,Gram 14Z970,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,0.98,1899.0
+910,923,Dell,Latitude 5480,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.6,1205.0
+911,924,HP,Elitebook Folio,Ultrabook,12.5,3840x2160,3840,2160,Intel Core,8,240,SSD,Intel,Windows 10,1.09,3100.0
+912,925,Lenovo,IdeaPad 510-15IKB,Notebook,15.6,1920x1080,1920,1080,Intel Core,6,256,SSD,Nvidia,Windows 10,2.2,789.0
+913,926,HP,ProBook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.04,1018.99
+914,927,Acer,Aspire E5-575,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,Windows 10,2.4,499.0
+915,928,Lenovo,ThinkPad 13,Notebook,13.3,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.44,881.0
+916,930,HP,Probook 430,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.49,960.0
+917,931,MSI,GE72VR 6RF,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.7,1599.0
+918,932,Dell,Inspiron 7567,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,2.6,1349.0
+919,933,MSI,GL62M 7RD,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.2,1119.91
+920,934,Dell,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,AMD,Windows 10,2.18,684.99
+921,935,HP,EliteBook 850,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,1.84,1296.99
+922,936,HP,Envy 13-AB077cl,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Windows 10,1.39,1149.0
+923,937,Toshiba,Tecra Z50-C-140,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,256,SSD,Nvidia,Windows 10,2.4,1975.0
+924,938,Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.37,1825.0
+925,939,Dell,Latitude 3580,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.95,729.9
+926,940,Lenovo,Thinkpad X270,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.36,1650.0
+927,941,HP,Probook 650,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.31,1165.0
+928,942,Dell,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Windows 10,2.18,708.06
+929,943,HP,ProBook 640,Notebook,14.0,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.95,1149.0
+930,944,Lenovo,IdeaPad 320-15IAP,Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,Windows 10,2.2,309.0
+931,945,HP,EliteBook 820,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,1.26,1579.0
+932,946,HP,250 G6,Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,No OS,1.86,288.9
+933,947,Lenovo,Yoga 900-13ISK,2 in 1 Convertible,13.3,3200x1800,3200,1800,Intel Core,16,1000,SSD,Intel,Windows 10,1.3,1799.0
+934,948,Toshiba,Tecra Z40-C-12X,Notebook,14.0,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.47,1105.0
+935,949,HP,EliteBook 820,Netbook,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.26,1669.0
+936,950,Dell,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Windows 10,2.18,558.6
+937,951,MSI,GP62M Leopard,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.2,1199.0
+938,952,Dell,Latitude 7480,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.36,1639.0
+939,953,Dell,Alienware 17,Gaming,17.3,2560x1440,2560,1440,Intel Core,16,512,HDD,Nvidia,Windows 10,4.36,2758.0
+940,954,HP,Omen 17-W006na,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.75,1399.0
+941,955,Asus,X751SV-TY001T (N3710/4GB/1TB/GeForce,Notebook,17.3,1600x900,1600,900,Intel Other,4,1000,HDD,Nvidia,Windows 10,2.8,530.0
+942,956,Acer,TravelMate P259-G2,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.23,619.0
+943,957,Toshiba,Tecra A50-C-1ZV,Notebook,15.6,1366x768,1366,768,Intel Core,8,256,SSD,Intel,Windows 10,2.2,1119.0
+944,958,Lenovo,Yoga 700-11ISK,2 in 1 Convertible,11.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.1,1299.0
+945,959,Lenovo,IdeaPad Y700-15ACZ,Gaming,15.6,1920x1080,1920,1080,AMD,16,512,HDD,AMD,Windows 10,2.5,999.0
+946,960,Dell,Latitude 7280,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.36,1472.2
+947,961,Lenovo,IdeaPad 310-15IKB,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,No OS,2.2,685.0
+948,962,Dell,Insprion 5767,Notebook,17.3,1600x900,1600,900,Intel Core,4,1000,HDD,AMD,Windows 10,2.36,659.0
+949,963,Acer,Chromebook 14,Notebook,14.0,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Android or Chrome,1.68,349.0
+950,964,HP,ZBook Studio,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,8,SSD,Nvidia,Windows 10,2.0,2249.0
+951,965,Dell,Latitude 7480,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.36,1775.0
+952,966,Toshiba,Portege Z30-C-1CW,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,1.2,1460.0
+953,967,Asus,Chromebook Flip,2 in 1 Convertible,12.5,1920x1080,1920,1080,Intel Core,8,64,Storage,Intel,Android or Chrome,1.2,1159.0
+954,968,Lenovo,Thinkpad T460,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.7,1488.99
+955,969,Dell,Alienware 17,Gaming,17.3,3840x2160,3840,2160,Intel Core,16,512,HDD,Nvidia,Windows 10,4.36,3154.0
+956,970,Dell,XPS 13,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.24,1899.0
+957,971,HP,ProBook x360,2 in 1 Convertible,11.6,1366x768,1366,768,Intel Other,4,256,SSD,Intel,Windows 10,1.45,775.0
+958,972,Dell,XPS 13,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Windows 10,1.3,1268.0
+959,973,Acer,Chromebook C738T-C2EJ,2 in 1 Convertible,11.6,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Android or Chrome,1.25,389.0
+960,974,Toshiba,Portege Z30-C-16Z,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.2,1535.0
+961,975,Lenovo,ThinkPad X270,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.36,1760.0
+962,976,Acer,Aspire F5-573G-510L,Notebook,15.6,1920x1080,1920,1080,Intel Core,12,128,HDD,Nvidia,Windows 10,2.4,1009.0
+963,977,Toshiba,Portege X20W-D-10V,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.1,1790.0
+964,978,HP,ProBook 450,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.04,846.5
+965,979,Dell,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,AMD,Linux,2.25,465.62
+966,980,Dell,Latitude 5580,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.9,825.0
+967,981,HP,ProBook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,2.04,685.0
+968,982,Dell,Alienware 17,Gaming,17.3,1920x1080,1920,1080,Intel Core,32,256,HDD,Nvidia,Windows 10,4.42,3149.0
+969,983,Lenovo,IdeaPad 310-15IKB,Notebook,15.6,1920x1080,1920,1080,Intel Core,6,256,SSD,Nvidia,Windows 10,2.4,695.0
+970,984,Dell,XPS 13,2 in 1 Convertible,13.3,3200x1800,3200,1800,Intel Core,16,512,SSD,Intel,Windows 10,1.22,1899.0
+971,985,Dell,Latitude E7470,Ultrabook,14.0,2560x1440,2560,1440,Intel Core,8,256,SSD,Intel,Windows 10,1.5,1962.98
+972,986,Dell,Alienware 17,Gaming,17.3,1920x1080,1920,1080,Intel Core,32,256,HDD,Nvidia,Windows 10,4.42,2800.0
+973,987,Toshiba,Tecra A40-C-1DF,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.95,1180.0
+974,988,Asus,Rog Strix,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.73,2049.9
+975,989,HP,Probook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.04,979.0
+976,990,Lenovo,ThinkPad T460,Notebook,14.0,1366x768,1366,768,Intel Core,4,508,Hybrid,Intel,Windows 7,1.7,1002.0
+977,991,Asus,Q534UX-BHI7T19 (i7-7500U/16GB/2TB,2 in 1 Convertible,15.6,3840x2160,3840,2160,Intel Core,16,512,HDD,Nvidia,Windows 10,2.3,1799.0
+978,992,HP,15-bs053od (i7-7500U/6GB/1TB/W10),Notebook,15.6,1366x768,1366,768,Intel Core,6,1000,HDD,Intel,Windows 10,2.04,579.0
+979,993,Asus,Rog GL753VE-DS74,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.99,1749.0
+980,994,Dell,Inspiron 7579,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,12,512,SSD,Intel,Windows 10,2.19,1299.0
+981,995,Toshiba,Portege Z30-C-1CV,Notebook,13.3,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 7,1.2,1195.0
+982,996,Lenovo,IdeaPad 320-15ABR,Notebook,15.6,1920x1080,1920,1080,AMD,6,256,SSD,AMD,Windows 10,2.2,549.0
+983,997,Fujitsu,LifeBook A556,Notebook,15.6,1366x768,1366,768,Intel Core,4,256,SSD,Intel,Windows 10,2.3,649.0
+984,998,Toshiba,Tecra A40-C-1KF,Notebook,14.0,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.75,915.0
+985,999,Dell,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,AMD,Windows 10,2.25,599.0
+986,1000,HP,Probook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Intel,Windows 10,2.04,806.0
+987,1001,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.5,1189.0
+988,1002,Dell,Inspiron 5567,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,AMD,Windows 10,2.36,749.0
+989,1003,Dell,Latitude 5480,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,128,SSD,Intel,Windows 10,1.6,1119.0
+990,1004,HP,EliteBook Folio,Netbook,12.5,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,0.97,1908.0
+991,1005,HP,15-bs005nv (i3-6006U/4GB/1TB,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,128,HDD,AMD,Windows 10,2.1,499.0
+992,1006,Lenovo,V110-15IAP (N3350/4GB/128GB/No,Notebook,15.6,1366x768,1366,768,Intel Other,4,128,SSD,Intel,No OS,1.9,270.62
+993,1007,Lenovo,ThinkPad T560,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.3,1349.0
+994,1008,Dell,Inspiron 5378,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.68,889.0
+995,1009,Asus,ZenBook UX310UA-FB485T,Notebook,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Windows 10,1.4,1150.0
+996,1010,HP,Spectre 13-V111dx,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.11,1349.0
+997,1011,Acer,Aspire ES1-533,Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,2.4,380.0
+998,1012,Asus,Rog GL553VE-DS74,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.5,1799.0
+999,1013,HP,EliteBook 840,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.48,2089.0
+1000,1014,Acer,Nitro 5,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.7,1260.0
+1001,1015,HP,ENVY -,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.34,1189.0
+1002,1016,Dell,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,2.18,547.0
+1003,1017,HP,Probook 440,Notebook,14.0,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.64,779.0
+1004,1018,Toshiba,Portege Z30-C-16H,Notebook,13.3,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.2,1195.0
+1005,1019,HP,EliteBook 840,Notebook,14.0,1366x768,1366,768,Intel Core,4,256,SSD,Intel,Windows 10,1.48,1099.99
+1006,1020,HP,ProBook 640,Notebook,14.0,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,1.95,1205.0
+1007,1021,HP,EliteBook 1040,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,1.43,1449.0
+1008,1022,HP,ProBook 440,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.64,1049.26
+1009,1023,HP,Probook 440,Notebook,14.0,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.64,684.0
+1010,1024,Dell,Inspiron 7567,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,Hybrid,Nvidia,Windows 10,2.65,949.0
+1011,1025,HP,EliteBook 820,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,1.26,1539.0
+1012,1026,HP,Elitebook 840,Notebook,14.0,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,1.48,1590.0
+1013,1027,HP,EliteBook 840,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.54,1887.21
+1014,1028,HP,Probook 430,Notebook,13.3,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.49,800.0
+1015,1029,Toshiba,Portege A30-C-1CZ,Notebook,13.3,1366x768,1366,768,Intel Core,8,256,SSD,Intel,Windows 10,1.5,1210.0
+1016,1030,HP,ProBook 450,Notebook,15.6,1366x768,1366,768,Intel Core,4,256,SSD,Intel,Windows 10,2.04,769.99
+1017,1031,Lenovo,ThinkPad P70,Notebook,17.3,3840x2160,3840,2160,Intel Core,16,512,SSD,Nvidia,Windows 7,2.4,2968.0
+1018,1032,Toshiba,Tecra Z40-C-12Z,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.47,1490.0
+1019,1033,HP,EliteBook 1040,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.43,2229.0
+1020,1034,Dell,Inspiron 5568,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,Windows 10,2.08,795.99
+1021,1035,Toshiba,PortÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©gÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Z30-C-16K,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.2,1590.0
+1022,1036,HP,Spectre 13-V100nv,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.11,1149.0
+1023,1037,HP,ProBook 440,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,1.64,1185.43
+1024,1038,Dell,Latitude E5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,500,HDD,Intel,Windows 10,2.09,1046.44
+1025,1039,HP,Elitebook 820,Ultrabook,12.5,1366x768,1366,768,Intel Core,4,256,SSD,Intel,Windows 10,1.26,1559.0
+1026,1040,HP,ProBook 650,Notebook,14.0,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.31,1189.0
+1027,1041,HP,ProBook 640,Notebook,14.0,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.95,1060.0
+1028,1042,Dell,XPS 13,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Windows 10,1.29,1624.0
+1029,1043,HP,Probook 470,Notebook,17.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.63,1080.0
+1030,1044,HP,ProBook 440,Notebook,14.0,1366x768,1366,768,Intel Core,4,256,SSD,Intel,Windows 10,1.64,973.0
+1031,1045,Acer,Aspire 3,Notebook,15.6,1366x768,1366,768,AMD,6,1000,HDD,AMD,Windows 10,2.1,409.0
+1032,1046,MSI,GL72M 7RDX,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.7,1191.8
+1033,1047,HP,Probook 640,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,1.95,1195.0
+1034,1048,HP,EliteBook 850,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.84,1228.99
+1035,1049,HP,EliteBook 820,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.26,1349.0
+1036,1050,HP,ProBook 450,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.04,742.0
+1037,1051,Toshiba,Tecra Z40-C-136,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.47,1725.0
+1038,1052,Dell,Latitude E5570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,2.09,1062.95
+1039,1053,HP,ProBook 440,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.64,1010.51
+1040,1054,Lenovo,Yoga 500-15ISK,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,1.8,847.0
+1041,1055,Vero,V142 (X5-Z8350/2GB/32GB/W10),Notebook,14.0,1366x768,1366,768,Intel Other,2,32,Storage,Intel,Windows 10,1.45,210.8
+1042,1056,Toshiba,Tecra A50-C-218,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,256,SSD,Nvidia,Windows 10,2.4,1425.0
+1043,1057,Lenovo,Thinkpad L560,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.3,1049.6
+1044,1058,HP,EliteBook 840,Notebook,14.0,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,1.54,1000.0
+1045,1059,HP,EliteBook 850,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,HDD,Intel,Windows 10,1.84,2103.34
+1046,1060,HP,EliteBook 1040,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,1.43,1469.0
+1047,1061,MSI,GT72S Dominator,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,3.78,1545.64
+1048,1062,Lenovo,IdeaPad Y900-17ISK,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,4.6,2289.99
+1049,1063,Asus,Chromebook C202SA,Netbook,11.6,1366x768,1366,768,Intel Other,4,16,Storage,Intel,Android or Chrome,1.2,287.9
+1050,1064,Lenovo,ThinkPad X1,Notebook,14.0,2560x1440,2560,1440,Intel Core,16,256,SSD,Intel,Windows 7,1.1,2620.0
+1051,1065,HP,Noteb Pav,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,1.91,979.0
+1052,1066,Dell,Inspiron 5578,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.3,1094.0
+1053,1067,HP,ProBook 450,Notebook,15.6,1366x768,1366,768,Intel Core,4,256,SSD,Intel,Windows 10,2.04,979.0
+1054,1068,Dell,XPS 13,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,16,1000,SSD,Intel,Windows 10,1.2,2254.0
+1055,1069,HP,ProBook 650,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.31,705.15
+1056,1070,HP,250 G5,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,No OS,1.96,499.0
+1057,1071,Acer,Aspire ES1-523,Notebook,15.6,1366x768,1366,768,AMD,8,1000,HDD,AMD,Windows 10,2.4,449.0
+1058,1072,Dell,Inspiron 7378,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,12,256,SSD,Intel,Windows 10,1.6,1299.0
+1059,1073,MSI,GT62VR 6RD,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.94,1819.0
+1060,1074,HP,ProBook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.04,1070.0
+1061,1075,Asus,Rog G752VL-GC088D,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,1000,HDD,Nvidia,No OS,4.0,998.0
+1062,1076,Dell,Inspiron 3567,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,Windows 10,2.25,559.0
+1063,1077,Dell,Inspiron 5567,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,2000,HDD,AMD,Windows 10,2.32,989.99
+1064,1079,MSI,GS63VR 6RF,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,1.8,1929.0
+1065,1080,Dell,XPS 13,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.29,1458.0
+1066,1081,Asus,ROG G701VO,Gaming,17.3,1920x1080,1920,1080,Intel Core,64,1000,SSD,Nvidia,Windows 10,3.58,3975.0
+1067,1082,Dell,Inspiron 5368,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.62,798.01
+1068,1083,Dell,Alienware 15,Gaming,15.6,3840x2160,3840,2160,Intel Core,16,256,HDD,Nvidia,Windows 10,3.21,1329.0
+1069,1084,Apple,"MacBook 12""",Ultrabook,12.0,2304x1440,2304,1440,Intel Core,8,256,Storage,Intel,macOS,0.92,1300.0
+1070,1085,Dell,Latitude 3570,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.06,481.98
+1071,1086,HP,ProBook 650,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.31,1199.0
+1072,1087,HP,EliteBook 820,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,1.26,1199.0
+1073,1088,HP,ProBook 430,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.49,1090.0
+1074,1089,Lenovo,ThinkPad Yoga,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.3,1713.49
+1075,1090,Lenovo,IdeaPad 300-17ISK,Notebook,17.3,1600x900,1600,900,Intel Core,8,1000,HDD,AMD,Windows 10,3.0,659.0
+1076,1091,Lenovo,Ideapad 700-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,Windows 10,2.3,977.0
+1077,1092,MSI,GT72VR Dominator,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,3.78,2499.0
+1078,1093,Lenovo,V110-15ISK (i5-6200U/4GB/500GB/W10),Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.1,540.0
+1079,1094,HP,Probook 650,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 7,2.31,940.0
+1080,1095,Lenovo,Yoga 900S-12ISK,Ultrabook,12.5,2560x1440,2560,1440,Intel Core,8,512,SSD,Intel,Windows 10,0.99,1399.0
+1081,1096,Lenovo,IdeaPad Y900-17ISK,Gaming,17.3,1920x1080,1920,1080,Intel Core,32,512,Hybrid,Nvidia,Windows 10,4.6,3240.0
+1082,1097,Lenovo,Yoga Book,2 in 1 Convertible,10.1,1920x1200,1920,1200,Intel Other,4,64,Storage,Intel,Windows 10,0.69,646.27
+1083,1098,HP,Spectre x360,Ultrabook,13.3,3840x2160,3840,2160,Intel Core,16,512,SSD,Intel,Windows 10,1.3,2049.0
+1084,1099,Dell,Vostro 3568,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.18,750.0
+1085,1100,HP,EliteBook 840,Notebook,14.0,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 7,1.54,1030.99
+1086,1101,HP,ZBook 15u,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 7,1.9,1495.0
+1087,1102,Lenovo,ThinkPad T460,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,180,SSD,Intel,Windows 7,1.7,1199.0
+1088,1103,HP,Chromebook 13,Notebook,13.3,3200x1800,3200,1800,Intel Other,4,32,Storage,Intel,Android or Chrome,1.29,615.0
+1089,1104,Acer,Aspire ES1-523,Notebook,15.6,1366x768,1366,768,AMD,4,500,HDD,AMD,Windows 10,2.4,387.0
+1090,1105,Dell,Inspiron 3552,Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Linux,2.2,393.49
+1091,1106,HP,250 G6,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,No OS,1.86,345.99
+1092,1107,Asus,Rog GL702VM-GC354T,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,256,HDD,Nvidia,Windows 10,2.7,1599.0
+1093,1108,Dell,Inspiron 5370,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,4,256,SSD,AMD,Windows 10,1.4,818.35
+1094,1109,HP,Elitebook 820,Netbook,12.5,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 7,2.4,1599.0
+1095,1110,Acer,Aspire F5-573G,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,HDD,Nvidia,Windows 10,2.4,799.0
+1096,1111,Dell,Inspiron 5567,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,AMD,Windows 10,2.36,638.8
+1097,1112,MSI,GS70 Stealth,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.6,1599.0
+1098,1113,HP,250 G5,Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,Windows 10,1.96,500.0
+1099,1114,Asus,G752VY-GC162T (i7-6700HQ/16GB/1TB,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,4.3,2299.0
+1100,1115,Dell,Latitude E5270,Ultrabook,12.5,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 7,1.5,1135.15
+1101,1116,Dell,Latitude E5270,Ultrabook,12.5,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 7,1.5,1166.97
+1102,1117,Acer,Chromebook 15,Notebook,15.6,1366x768,1366,768,Intel Other,4,16,SSD,Intel,Android or Chrome,2.2,209.0
+1103,1118,HP,ZBook 17,Workstation,17.3,1920x1080,1920,1080,Intel Core,8,1000,HDD,AMD,Windows 7,3.0,2899.0
+1104,1119,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,2.4,1199.0
+1105,1120,Dell,Latitude E5270,Ultrabook,12.5,1366x768,1366,768,Intel Core,8,256,SSD,Intel,Windows 7,1.5,1413.1
+1106,1121,MSI,GE72 Apache,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.9,1511.19
+1107,1122,Lenovo,Yoga 500-15ISK,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,2.1,867.0
+1108,1123,HP,15-bw011nv (A6-9220/4GB/1TB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,AMD,4,1000,HDD,AMD,Windows 10,2.1,398.0
+1109,1124,Asus,Rog GL552VW-CN470T,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,2.59,1339.0
+1110,1125,HP,EliteBook 1030,Notebook,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Windows 10,1.16,1699.0
+1111,1126,Dell,Vostro 3559,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,AMD,Windows 7,2.24,769.15
+1112,1127,Lenovo,V110-15ISK (i3-6006U/4GB/128GB/W10),Notebook,15.6,1366x768,1366,768,Intel Core,4,128,SSD,Intel,Windows 10,2.1,429.0
+1113,1128,HP,Spectre Pro,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.16,1969.0
+1114,1129,Lenovo,Yoga Book,2 in 1 Convertible,10.1,1920x1200,1920,1200,Intel Other,4,64,Storage,Intel,Android or Chrome,0.69,549.0
+1115,1130,Dell,XPS 13,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.23,1379.0
+1116,1131,Lenovo,IdeaPad Y900-17ISK,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,Hybrid,Nvidia,Windows 10,4.6,2749.99
+1117,1132,Razer,Blade Stealth,Ultrabook,12.5,3840x2160,3840,2160,Intel Core,8,256,SSD,Intel,Windows 10,1.25,1029.0
+1118,1133,Toshiba,Portege X30-D-10K,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.05,2226.0
+1119,1134,Asus,Rog GL752VW-T4308T,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,3.52,1312.49
+1120,1135,Vero,V131 (X5-Z8350/4GB/32GB/FHD/W10),Notebook,13.3,1920x1080,1920,1080,Intel Other,4,32,Storage,Intel,Windows 10,1.35,196.0
+1121,1136,HP,Spectre Pro,Notebook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.16,1690.0
+1122,1137,HP,EliteBook 1040,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,1.43,1513.0
+1123,1138,Dell,Latitude E5570,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Linux,2.09,523.63
+1124,1139,Asus,VivoBook Max,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Windows 10,2.0,435.0
+1125,1140,Lenovo,ThinkPad Yoga,2 in 1 Convertible,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.8,1669.0
+1126,1141,Lenovo,Yoga Book,2 in 1 Convertible,10.1,1920x1200,1920,1200,Intel Other,4,64,Storage,Intel,Windows 10,0.69,479.0
+1127,1142,HP,EliteBook 820,Ultrabook,12.5,1366x768,1366,768,Intel Core,8,256,SSD,Intel,Windows 7,1.26,1895.0
+1128,1143,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,No OS,2.4,989.0
+1129,1144,HP,Omen -,Gaming,17.3,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,3.35,1129.0
+1130,1145,HP,15-bs078cl (i7-7500U/8GB/2TB/W10),Notebook,15.6,1366x768,1366,768,Intel Core,8,2000,HDD,Intel,Windows 10,2.04,629.0
+1131,1146,Lenovo,ThinkPad P40,2 in 1 Convertible,14.0,1920x1080,1920,1080,Intel Core,8,512,SSD,Nvidia,Windows 7,1.8,2050.38
+1132,1147,Asus,L403NA-GA013TS (N3350/4GB/32GB/W10),Notebook,14.0,1366x768,1366,768,Intel Other,4,32,Storage,Intel,Windows 10,1.5,278.0
+1133,1148,HP,250 G6,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.84,752.0
+1134,1149,Acer,Aspire E5-576G,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,Windows 10,2.23,616.0
+1135,1150,Lenovo,IdeaPad 500-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,1000,Hybrid,AMD,Windows 10,2.5,1099.0
+1136,1151,HP,ZBook 17,Workstation,17.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 7,3.0,3949.4
+1137,1153,Dell,Inspiron 5567,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,AMD,Windows 10,2.5,784.0
+1138,1154,MSI,GT72S Dominator,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,3.78,2399.0
+1139,1155,HP,EliteBook 850,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,1.88,2171.72
+1140,1156,Lenovo,ThinkPad X1,2 in 1 Convertible,14.0,2560x1440,2560,1440,Intel Core,16,512,SSD,Intel,Windows 10,2.8,2440.0
+1141,1157,MSI,GP62M 7RDX,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.4,1142.8
+1142,1160,HP,Spectre Pro,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.48,1629.0
+1143,1161,HP,ZBook 15,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 7,2.59,2229.0
+1144,1162,HP,Spectre Pro,2 in 1 Convertible,13.3,2560x1440,2560,1440,Intel Core,8,256,SSD,Intel,Windows 10,1.48,1799.0
+1145,1163,HP,ZBook Studio,Workstation,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 7,2.0,1899.0
+1146,1164,HP,EliteBook 820,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,1.26,2296.95
+1147,1165,Dell,Vostro 5568,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Windows 10,2.18,1009.9
+1148,1166,HP,EliteBook 850,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,1.88,1579.0
+1149,1167,Lenovo,ThinkPad X1,2 in 1 Convertible,14.0,2560x1440,2560,1440,Intel Core,8,256,SSD,Intel,Windows 10,1.27,2339.0
+1150,1168,Lenovo,V110-15ISK (i3-6006U/4GB/1TB/No,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,No OS,1.9,339.0
+1151,1169,HP,15-BA015wm (E2-7110/4GB/500GB/W10),Notebook,15.6,1366x768,1366,768,AMD,4,500,HDD,AMD,Windows 10,1.86,297.0
+1152,1170,Lenovo,B51-80 (i5-6200U/8GB/1TB/Radeon,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,AMD,No OS,2.32,599.0
+1153,1171,Dell,Inspiron 7567,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.62,1199.0
+1154,1172,Dell,XPS 15,Notebook,15.6,3840x2160,3840,2160,Intel Core,8,256,SSD,Nvidia,Windows 10,2.04,2250.68
+1155,1173,HP,15-bw002nv (A6-9220/4GB/256GB/Radeon,Notebook,15.6,1920x1080,1920,1080,AMD,4,256,SSD,AMD,Windows 10,1.91,478.89
+1156,1174,MSI,GP72M 7REX,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.7,1492.8
+1157,1175,Lenovo,ThinkPad T460s,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,12,512,SSD,Intel,Windows 7,1.4,2299.0
+1158,1176,Lenovo,B51-80 (i5-6200U/8GB/1008GB/Radeon,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,Hybrid,AMD,Windows 10,2.5,788.49
+1159,1177,HP,Spectre Pro,2 in 1 Convertible,13.3,2560x1440,2560,1440,Intel Core,8,512,SSD,Intel,Windows 10,1.48,2041.0
+1160,1178,Lenovo,ThinkPad T460,Ultrabook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,1.7,1499.0
+1161,1179,MSI,GS40 Phantom,Gaming,14.0,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,1.7,1769.0
+1162,1180,HP,Pavilion 15-cb003nv,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.62,899.0
+1163,1181,Lenovo,IdeaPad 310-15ISK,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,Intel,Windows 10,2.2,459.0
+1164,1182,HP,250 G4,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,No OS,2.1,476.99
+1165,1183,Dell,Inspiron 7567,Gaming,15.6,3840x2160,3840,2160,Intel Core,8,128,HDD,Nvidia,Windows 10,2.62,1498.0
+1166,1184,Lenovo,ThinkPad T570,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.95,1390.0
+1167,1185,Lenovo,320-15ISK (i3-6006U/4GB/1TB/GeForce,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Nvidia,Windows 10,2.2,468.0
+1168,1186,HP,Stream 14-AX000nv,Notebook,14.0,1366x768,1366,768,Intel Other,2,32,Storage,Intel,Windows 10,1.44,249.0
+1169,1187,MSI,PL60 7RD,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.2,839.0
+1170,1188,HP,250 G5,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.96,679.0
+1171,1189,HP,ProBook 450,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,2.1,1159.0
+1172,1190,Asus,X553SA-XX021T (N3050/4GB/500GB/W10),Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,2.2,369.0
+1173,1191,Lenovo,V110-15ISK (i5-6200U/4GB/500GB/No,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,No OS,2.1,398.0
+1174,1192,Lenovo,IdeaPad 510-15IKB,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,No OS,2.2,709.0
+1175,1193,Asus,UX410UA-GV097T (i3-7100U/4GB/256GB/FHD/W10),Notebook,14.0,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 10,2.0,769.0
+1176,1194,Lenovo,B51-80 (i7-6500U/4GB/1008GB/FHD/W7),Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,Hybrid,Intel,Windows 7,2.32,825.0
+1177,1195,Lenovo,IdeaPad Y700-15ISK,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,3.31,1305.0
+1178,1196,MSI,GS60 Ghost,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,1.91,2153.37
+1179,1197,HP,ProBook 450,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.07,650.0
+1180,1198,Lenovo,ThinkPad X1,2 in 1 Convertible,14.0,2560x1440,2560,1440,Intel Core,8,256,SSD,Intel,Windows 10,1.36,1637.0
+1181,1199,Lenovo,IdeaPad 310-15IKB,Ultrabook,15.6,1920x1080,1920,1080,Intel Core,6,256,SSD,Nvidia,Windows 10,1.54,831.0
+1182,1200,Dell,Vostro 5568,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Nvidia,Linux,1.98,895.01
+1183,1201,Acer,Aspire 3,Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,2.1,333.0
+1184,1202,HP,Pavilion 15-BC000nv,Notebook,15.6,1920x1080,1920,1080,Intel Core,6,1000,HDD,Nvidia,Windows 10,2.18,799.0
+1185,1203,Asus,Rog GL552VW-DM201T,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,256,HDD,Nvidia,Windows 10,2.591,909.0
+1186,1204,Dell,Inspiron 5578,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,2.09,1179.0
+1187,1205,Acer,Aspire E5-576G,Notebook,15.6,1920x1080,1920,1080,Intel Core,4,256,SSD,Nvidia,Windows 10,2.23,691.0
+1188,1206,Dell,XPS 13,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Linux,1.23,1099.0
+1189,1207,Acer,Predator G9-793,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,4.2,2599.0
+1190,1208,Lenovo,Legion Y520-15IKBN,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.4,819.0
+1191,1210,Samsung,250 G6,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.86,485.0
+1192,1211,HP,"MacBook 12""",Ultrabook,12.0,2304x1440,2304,1440,Intel Core,8,256,Storage,Intel,macOS,0.92,1163.0
+1193,1212,Apple,Inspiron 7378,2 in 1 Convertible,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.6,1199.0
+1194,1213,Dell,Pavilion Power,Notebook,15.6,1920x1080,1920,1080,Intel Core,12,128,HDD,Nvidia,Windows 10,2.21,1327.0
+1195,1214,HP,V110-15ISK (i3-6006U/4GB/1TB/Radeon,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,AMD,No OS,1.9,368.0
+1196,1215,Lenovo,Rog G752VY-GC229T,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,512,HDD,Nvidia,Windows 10,4.3,2150.0
+1197,1216,Asus,Aspire 3,Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,Linux,2.1,272.0
+1198,1217,Acer,GS73VR 7RF,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.43,2048.9
+1199,1218,MSI,Inspiron 5567,Notebook,15.6,1366x768,1366,768,Intel Core,4,128,SSD,AMD,Windows 10,2.3,499.0
+1200,1219,Dell,IdeaPad 310-15ISK,Notebook,15.6,1366x768,1366,768,Intel Core,8,500,HDD,Nvidia,No OS,2.2,629.0
+1201,1220,Lenovo,Inspiron 5579,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,2.0,1285.0
+1202,1221,Dell,XPS 13,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,16,512,SSD,Intel,Windows 10,1.2,2680.0
+1203,1222,Dell,FX502VM-DM105T (i7-6700HQ/8GB/1TB/GeForce,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.2,1169.0
+1204,1223,Asus,Inspiron 5567,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,AMD,Windows 10,2.36,889.0
+1205,1224,Dell,15-bs025nv (i5-7200U/8GB/256GB/W10),Notebook,15.6,1366x768,1366,768,Intel Core,8,256,SSD,Intel,Windows 10,1.91,579.0
+1206,1225,HP,IdeaPad 320-15AST,Notebook,15.6,1366x768,1366,768,AMD,4,500,HDD,AMD,Windows 10,2.2,299.0
+1207,1226,Lenovo,Aspire E5-774G,Notebook,17.3,1600x900,1600,900,Intel Core,8,1000,HDD,Nvidia,Windows 10,3.3,629.0
+1208,1227,Acer,Rog Strix,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.2,2449.0
+1209,1228,Asus,"MacBook 12""",Ultrabook,12.0,2304x1440,2304,1440,Intel Core,8,512,Storage,Intel,macOS,0.92,1279.0
+1210,1229,Apple,FX502VM-AS73 (i7-7700HQ/16GB/1TB,Notebook,15.6,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,2.2,1749.0
+1211,1230,Asus,GS73VR Stealth,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.43,1948.99
+1212,1231,MSI,Inspiron 7579,2 in 1 Convertible,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.191,999.0
+1213,1232,Dell,ROG Strix,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.9,1949.0
+1214,1233,Asus,C740-C9QX (3205U/2GB/32GB/Chrome,Netbook,11.6,1366x768,1366,768,Intel Other,2,32,SSD,Intel,Android or Chrome,1.3,174.0
+1215,1234,Acer,E5 774G,Notebook,17.3,1600x900,1600,900,Intel Core,4,1000,HDD,Nvidia,Windows 10,3.3,598.0
+1216,1235,Acer,IdeaPad 320-17IKB,Notebook,17.3,1600x900,1600,900,Intel Core,8,1000,HDD,Intel,No OS,2.8,539.0
+1217,1236,Lenovo,IdeaPad Y700-15ISK,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.6,1272.0
+1218,1237,Lenovo,SP714-51 (i7-7Y75/8GB/256GB/FHD/W10),2 in 1 Convertible,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.2,1149.0
+1219,1238,Acer,Thinkpad T560,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,2.3,1529.0
+1220,1239,Lenovo,GP62MVR 6RF,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.2,1476.11
+1221,1240,MSI,15-bw009nv (A12-9720P/6GB/1TB/Radeon,Notebook,15.6,1920x1080,1920,1080,AMD,6,1000,HDD,AMD,Windows 10,2.1,529.0
+1222,1241,HP,Latitude E7270,Ultrabook,12.5,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 7,1.26,1713.37
+1223,1242,Dell,Inspiron 5578,2 in 1 Convertible,15.0,1920x1080,1920,1080,Intel Core,4,500,HDD,Intel,Windows 10,2.08,509.0
+1224,1243,Dell,X540SA-RBPDN09 (N3710/4GB/1TB/W10),Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,Windows 10,2.65,309.0
+1225,1244,Asus,XPS 13,Ultrabook,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Windows 10,1.29,1477.0
+1226,1245,Dell,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,4,1000,HDD,Intel,Linux,2.18,521.86
+1227,1246,Dell,IdeaPad Y700-15ISK,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,2.6,1029.0
+1228,1247,Lenovo,GL62M 7RDX,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.2,1149.0
+1229,1248,MSI,ThinkPad Yoga,Netbook,12.5,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.3,1650.0
+1230,1249,Lenovo,Blade Pro,Gaming,14.0,1920x1080,1920,1080,Intel Core,16,1000,SSD,Nvidia,Windows 10,1.95,3499.0
+1231,1250,Razer,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,Intel,Windows 10,2.3,469.01
+1232,1251,Dell,GE72VR Apache,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.7,1598.0
+1233,1252,MSI,MacBook Air,Ultrabook,11.6,1366x768,1366,768,Intel Core,4,256,Storage,Intel,macOS,1.08,959.0
+1234,1253,Apple,15-bs023nv (i3-6006U/4GB/1TB/FHD/W10),Notebook,15.6,1920x1080,1920,1080,Intel Core,4,1000,HDD,Intel,Windows 10,2.1,478.0
+1235,1254,HP,EliteBook 840,Ultrabook,14.0,2560x1440,2560,1440,Intel Core,8,256,SSD,Intel,Windows 7,1.54,2198.19
+1236,1255,HP,Vostro 3559,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 7,2.24,737.0
+1237,1256,Dell,GL62 6QF,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.3,1169.0
+1238,1257,MSI,ThinkPad 13,Notebook,13.3,1920x1080,1920,1080,Intel Core,16,512,SSD,Intel,Windows 10,1.4,1499.0
+1239,1258,Lenovo,IdeaPad 320-15ABR,Notebook,15.6,1920x1080,1920,1080,AMD,6,256,SSD,AMD,Windows 10,2.2,597.57
+1240,1259,Lenovo,ZenBook UX310UA-WB71,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.45,1280.0
+1241,1260,Asus,Aspire ES1-572,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Linux,2.4,361.8
+1242,1261,Acer,Inspiron 7779,2 in 1 Convertible,17.3,1920x1080,1920,1080,Intel Core,16,512,SSD,Nvidia,Windows 10,2.77,1799.0
+1243,1262,Dell,EliteBook 840,Notebook,14.0,1920x1080,1920,1080,Intel Core,4,256,SSD,Intel,Windows 7,1.54,1099.99
+1244,1263,HP,Rog GL553VE-FY052T,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.5,1600.0
+1245,1264,Asus,Latitude 5480,Notebook,14.0,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,1.6,875.0
+1246,1265,Dell,Rog GL502VS,Gaming,15.6,1920x1080,1920,1080,Intel Core,16,256,HDD,Nvidia,Windows 10,2.34,2325.0
+1247,1266,Asus,V510-15IKB (i5-7200U/8GB/256GB/FHD/No,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,No OS,2.3,573.0
+1248,1267,Lenovo,XPS 13,2 in 1 Convertible,13.3,3200x1800,3200,1800,Intel Core,8,256,SSD,Intel,Windows 10,1.24,1813.0
+1249,1268,Dell,Inspiron 3552,Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Linux,2.2,324.0
+1250,1269,Dell,255 G6,Notebook,15.6,1366x768,1366,768,AMD,4,500,HDD,AMD,Windows 10,1.86,399.0
+1251,1270,HP,IdeaPad 310-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,6,128,SSD,Nvidia,Windows 10,2.4,569.0
+1252,1271,Lenovo,ThinkPad L460,Notebook,14.0,1920x1080,1920,1080,Intel Core,8,256,SSD,Intel,Windows 10,1.9,1072.0
+1253,1272,Lenovo,Inspiron 3552,Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,2.2,443.99
+1254,1273,Dell,X541NA-GO020T (N3350/4GB/1TB/W10),Notebook,15.6,1366x768,1366,768,Intel Other,4,1000,HDD,Intel,Windows 10,2.0,339.0
+1255,1274,Asus,Rog G752VT-GC073T,Gaming,17.3,1920x1080,1920,1080,Intel Core,16,128,HDD,Nvidia,Windows 10,4.0,1900.0
+1256,1275,Asus,Vostro 3568,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Intel,Windows 10,2.29,490.0
+1257,1276,Dell,B51-80 (i7-6500U/8GB/1008GB/Radeon,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,Hybrid,AMD,Windows 7,2.32,895.0
+1258,1277,Lenovo,GE62 Apache,Gaming,15.6,1920x1080,1920,1080,Intel Core,8,128,HDD,Nvidia,Windows 10,2.4,1229.0
+1259,1278,MSI,Yoga 500-14IBD,2 in 1 Convertible,14.0,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.8,833.01
+1260,1279,Lenovo,ZenBook UX305CA-UBM1,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.2,729.0
+1261,1280,Asus,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,6,1000,HDD,Intel,Windows 10,2.3,459.0
+1262,1281,Dell,Aspire ES1-531,Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Linux,2.4,289.0
+1263,1282,Acer,Inspiron 3552,Notebook,15.6,1366x768,1366,768,Intel Other,2,500,HDD,Intel,Windows 10,2.2,379.0
+1264,1283,Dell,IdeaPad Y700-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.6,899.0
+1265,1284,Lenovo,Pavilion 15-AW003nv,Notebook,15.6,1920x1080,1920,1080,AMD,6,1000,Hybrid,AMD,Windows 10,2.04,549.99
+1266,1285,HP,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,AMD,Linux,2.3,805.99
+1267,1286,Dell,Stream 11-Y000na,Netbook,11.6,1366x768,1366,768,Intel Other,2,32,Storage,Intel,Windows 10,1.17,209.0
+1268,1287,HP,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Nvidia,Windows 10,2.2,720.32
+1269,1288,Asus,Yoga 500-14ISK,2 in 1 Convertible,14.0,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.8,638.0
+1270,1289,Lenovo,Yoga 900-13ISK,2 in 1 Convertible,13.3,3200x1800,3200,1800,Intel Core,16,512,SSD,Intel,Windows 10,1.3,1499.0
+1271,1290,Lenovo,IdeaPad 100S-14IBR,Notebook,14.0,1366x768,1366,768,Intel Other,2,64,Storage,Intel,Windows 10,1.5,229.0
+1272,1291,Lenovo,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Notebook,15.6,1366x768,1366,768,Intel Core,6,1000,HDD,AMD,Windows 10,2.19,764.0
+1273,1292,HP,X553SA-XX031T (N3050/4GB/500GB/W10),Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,2.2,369.0
+1274,1293,Asus,ZenBook UX305CA-UBM1,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.2,729.0
+1275,1294,Asus,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,6,1000,HDD,Intel,Windows 10,2.3,459.0
+1276,1295,Dell,Aspire ES1-531,Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Linux,2.4,289.0
+1277,1296,Acer,Inspiron 3552,Notebook,15.6,1366x768,1366,768,Intel Other,2,500,HDD,Intel,Windows 10,2.2,379.0
+1278,1297,Dell,IdeaPad Y700-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.6,899.0
+1279,1298,Lenovo,Pavilion 15-AW003nv,Notebook,15.6,1920x1080,1920,1080,AMD,6,1000,Hybrid,AMD,Windows 10,2.04,549.99
+1280,1299,HP,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,AMD,Linux,2.3,805.99
+1281,1300,Dell,Stream 11-Y000na,Netbook,11.6,1366x768,1366,768,Intel Other,2,32,Storage,Intel,Windows 10,1.17,209.0
+1282,1301,HP,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Nvidia,Windows 10,2.2,720.32
+1283,1302,Asus,Yoga 500-14ISK,2 in 1 Convertible,14.0,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.8,638.0
+1284,1303,Lenovo,Yoga 900-13ISK,2 in 1 Convertible,13.3,3200x1800,3200,1800,Intel Core,16,512,SSD,Intel,Windows 10,1.3,1499.0
+1285,1304,Lenovo,IdeaPad 100S-14IBR,Notebook,14.0,1366x768,1366,768,Intel Other,2,64,Storage,Intel,Windows 10,1.5,229.0
+1286,1305,Lenovo,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Notebook,15.6,1366x768,1366,768,Intel Core,6,1000,HDD,AMD,Windows 10,2.19,764.0
+1287,1306,HP,X553SA-XX031T (N3050/4GB/500GB/W10),Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,2.2,369.0
+1288,1307,Asus,ZenBook UX305CA-UBM1,Ultrabook,13.3,1920x1080,1920,1080,Intel Core,8,512,SSD,Intel,Windows 10,1.2,729.0
+1289,1308,Asus,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,6,1000,HDD,Intel,Windows 10,2.3,459.0
+1290,1309,Dell,Aspire ES1-531,Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Linux,2.4,289.0
+1291,1310,Acer,Inspiron 3552,Notebook,15.6,1366x768,1366,768,Intel Other,2,500,HDD,Intel,Windows 10,2.2,379.0
+1292,1311,Dell,IdeaPad Y700-15ISK,Notebook,15.6,1920x1080,1920,1080,Intel Core,8,1000,HDD,Nvidia,Windows 10,2.6,899.0
+1293,1312,Lenovo,Pavilion 15-AW003nv,Notebook,15.6,1920x1080,1920,1080,AMD,6,1000,Hybrid,AMD,Windows 10,2.04,549.99
+1294,1313,HP,Inspiron 3567,Notebook,15.6,1366x768,1366,768,Intel Core,8,1000,HDD,AMD,Linux,2.3,805.99
+1295,1314,Dell,Stream 11-Y000na,Netbook,11.6,1366x768,1366,768,Intel Other,2,32,Storage,Intel,Windows 10,1.17,209.0
+1296,1315,HP,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Notebook,15.6,1366x768,1366,768,Intel Core,4,500,HDD,Nvidia,Windows 10,2.2,720.32
+1297,1316,Asus,Yoga 500-14ISK,2 in 1 Convertible,14.0,1920x1080,1920,1080,Intel Core,4,128,SSD,Intel,Windows 10,1.8,638.0
+1298,1317,Lenovo,Yoga 900-13ISK,2 in 1 Convertible,13.3,3200x1800,3200,1800,Intel Core,16,512,SSD,Intel,Windows 10,1.3,1499.0
+1299,1318,Lenovo,IdeaPad 100S-14IBR,Notebook,14.0,1366x768,1366,768,Intel Other,2,64,Storage,Intel,Windows 10,1.5,229.0
+1300,1319,Lenovo,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Notebook,15.6,1366x768,1366,768,Intel Core,6,1000,HDD,AMD,Windows 10,2.19,764.0
+1301,1320,HP,X553SA-XX031T (N3050/4GB/500GB/W10),Notebook,15.6,1366x768,1366,768,Intel Other,4,500,HDD,Intel,Windows 10,2.2,369.0
