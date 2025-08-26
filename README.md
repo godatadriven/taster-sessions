@@ -4,12 +4,9 @@
 
 This repository contains all notebooks and materials for the Data Science with Python Taster.
 
-## Explore and experiment in Binder
+## Explore and experiment in codespaces
 
-Please visit the Binder link below to open the environment and make edits and explore the capabilities of Python.
-
-<a href="https://gdd.li/ds-python-taster" Target="_blank">
-<img alt="Binder" src="https://mybinder.org/badge_logo.svg">
+Please use the codespace to access the materials by clicking on `Code` -> `codespaces` -> `Create a codespace on branch data-science-with-python`.
 
 ## Sessions
 
